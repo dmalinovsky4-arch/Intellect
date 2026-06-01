@@ -1,0 +1,48 @@
+{
+  "_comment": "Each source fetches RSS and filters items by keywords (any-match) and blockedKeywords (any-match excludes). Add/remove freely. The Reddit and Google News feeds below are reliable from GitHub Actions runners. Indeed RSS is hit-or-miss — left as an example.",
+  "sources": [
+    {
+      "name": "Reddit r/TeachingJobs",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/TeachingJobs/new/.rss",
+      "keywords": [
+        "social studies",
+        "history",
+        "middle school",
+        "high school",
+        "new york",
+        "nyc",
+        "brooklyn",
+        "bronx",
+        "queens"
+      ]
+    },
+    {
+      "name": "Reddit r/Teachers",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/Teachers/new/.rss",
+      "keywords": ["hiring", "looking for", "open position", "job posting", "new york"]
+    },
+    {
+      "name": "Google News - Social Studies Teacher NY",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%22social+studies+teacher%22+%22New+York%22+hiring&hl=en-US&gl=US&ceid=US:en",
+      "keywords": ["teacher", "hiring", "social studies", "history", "school"],
+      "blockedKeywords": ["arrested", "lawsuit", "indicted", "charged with"]
+    },
+    {
+      "name": "Google News - History Teacher Brooklyn",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%22history+teacher%22+Brooklyn+hiring&hl=en-US&gl=US&ceid=US:en",
+      "keywords": ["teacher", "history", "school", "hiring"],
+      "blockedKeywords": ["arrested", "lawsuit", "indicted", "charged with"]
+    },
+    {
+      "name": "Indeed - Social Studies Teacher NY (may 403)",
+      "type": "rss",
+      "url": "https://www.indeed.com/rss?q=social+studies+teacher&l=New+York%2C+NY",
+      "keywords": ["teacher", "social studies", "history", "education"],
+      "blockedKeywords": ["substitute only", "unpaid"]
+    }
+  ]
+}

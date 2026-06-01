@@ -1,0 +1,71 @@
+# Twice-daily job check + email digest.
+#
+# SETUP — required one time:
+# 1. In Google Account → Security, enable 2-Step Verification, then create an
+#    "App password" (16-char string). https://myaccount.google.com/apppasswords
+# 2. In this repo: Settings → Secrets and variables → Actions → New repository
+#    secret. Add two secrets:
+#      SMTP_USERNAME  = your full Gmail address (e.g. you@gmail.com)
+#      SMTP_PASSWORD  = the 16-char app password from step 1 (no spaces)
+# 3. Done. You can trigger a test run from the Actions tab → "Job Check" →
+#    "Run workflow", or wait for the next 12:00 / 00:00 UTC tick.
+#
+# Schedule notes: GitHub Actions cron is UTC. 12:00 UTC = 8am EDT / 7am EST.
+# 00:00 UTC = 8pm EDT / 7pm EST. There's no DST handling, so winter shifts
+# everything by one hour.
+
+name: Job Check
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run job check
+        id: check
+        run: node automation/check-jobs.mjs
+
+      - name: Send email digest
+        if: steps.check.outputs.count != '0'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ steps.check.outputs.subject }}
+          to: dmalinovsky4@gmail.com
+          from: Job Tracker <${{ secrets.SMTP_USERNAME }}>
+          html_body: ${{ steps.check.outputs.html }}
+          body: ${{ steps.check.outputs.text }}
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add automation/state/
+          if git diff --cached --quiet; then
+            echo "No state changes to commit"
+          else
+            git commit -m "chore: update job-check state"
+            git push
+          fi

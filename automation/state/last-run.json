@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-06-01T01:16:37.098Z",
+  "newJobs": [],
+  "sources": [
+    {
+      "name": "Reddit r/TeachingJobs",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Reddit r/Teachers",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Google News - Social Studies Teacher NY",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Google News - History Teacher Brooklyn",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Indeed - Social Studies Teacher NY (may 403)",
+      "error": "HTTP 403"
+    }
+  ]
+}
