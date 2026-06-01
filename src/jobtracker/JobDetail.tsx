@@ -1,7 +1,12 @@
 import { useState } from "react";
 import { useJobStore } from "./store";
 import { STATUSES, type Job } from "./types";
-import { templateCoverLetter, generateCoverLetterWithClaude } from "./coverLetter";
+import {
+  templateCoverLetter,
+  generateCoverLetterWithClaude,
+  analyzeFitWithClaude,
+  heuristicFitScore,
+} from "./coverLetter";
 
 type Props = { job: Job };
 
@@ -14,6 +19,8 @@ export function JobDetail({ job }: Props) {
   const [generating, setGenerating] = useState(false);
   const [genError, setGenError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
+  const [analyzing, setAnalyzing] = useState(false);
+  const [analyzeError, setAnalyzeError] = useState<string | null>(null);
 
   function patch<K extends keyof Job>(field: K, value: Job[K]) {
     update(job.id, { [field]: value } as Partial<Job>);
@@ -45,6 +52,38 @@ export function JobDetail({ job }: Props) {
     await navigator.clipboard.writeText(job.coverLetter);
     setCopied(true);
     setTimeout(() => setCopied(false), 1500);
+  }
+
+  function applyAnalysis(a: ReturnType<typeof heuristicFitScore>) {
+    update(job.id, {
+      fitScore: a.score,
+      fitSummary: a.summary,
+      fitStrengths: a.strengths,
+      fitGaps: a.gaps,
+      opener: a.opener || job.opener,
+      nextAction: a.nextAction || job.nextAction,
+    });
+  }
+
+  async function handleAnalyze(mode: "heuristic" | "ai") {
+    setAnalyzeError(null);
+    if (mode === "heuristic") {
+      applyAnalysis(heuristicFitScore(job));
+      return;
+    }
+    if (!apiKey) {
+      setAnalyzeError("Add an Anthropic API key in Settings to use AI fit analysis.");
+      return;
+    }
+    try {
+      setAnalyzing(true);
+      const result = await analyzeFitWithClaude({ apiKey, model, job });
+      applyAnalysis(result);
+    } catch (e) {
+      setAnalyzeError(e instanceof Error ? e.message : String(e));
+    } finally {
+      setAnalyzing(false);
+    }
   }
 
   function openUrl() {
@@ -178,6 +217,85 @@ export function JobDetail({ job }: Props) {
             rows={4}
           />
         </label>
+      </section>
+
+      <section className="fit">
+        <div className="fit-header">
+          <h3>Fit Analysis</h3>
+          <div className="fit-actions">
+            <button
+              className="btn-secondary"
+              onClick={() => handleAnalyze("heuristic")}
+              disabled={analyzing}
+            >
+              Heuristic
+            </button>
+            <button
+              className="btn-primary"
+              onClick={() => handleAnalyze("ai")}
+              disabled={analyzing}
+              title={apiKey ? `Score with ${model}` : "Add API key in Settings"}
+            >
+              {analyzing ? "Analyzing…" : "Score with Claude"}
+            </button>
+          </div>
+        </div>
+        {analyzeError && <div className="error">{analyzeError}</div>}
+        {job.fitScore != null ? (
+          <div className="fit-body">
+            <div className="fit-score-block">
+              <div className={`fit-score-large ${job.fitScore >= 75 ? "fit-good" : job.fitScore >= 50 ? "fit-ok" : "fit-low"}`}>
+                {job.fitScore}
+              </div>
+              <div className="fit-summary">{job.fitSummary}</div>
+            </div>
+            <div className="fit-grid">
+              {job.fitStrengths.length > 0 && (
+                <div>
+                  <h4>Strengths</h4>
+                  <ul>
+                    {job.fitStrengths.map((s, i) => (
+                      <li key={i}>{s}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {job.fitGaps.length > 0 && (
+                <div>
+                  <h4>Gaps</h4>
+                  <ul>
+                    {job.fitGaps.map((s, i) => (
+                      <li key={i}>{s}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+            {job.opener && (
+              <div className="opener-block">
+                <div className="opener-label">
+                  <span>Application opener</span>
+                  <button
+                    className="btn-ghost"
+                    onClick={() => navigator.clipboard.writeText(job.opener)}
+                  >
+                    Copy
+                  </button>
+                </div>
+                <textarea
+                  value={job.opener}
+                  onChange={(e) => patch("opener", e.target.value)}
+                  rows={4}
+                />
+              </div>
+            )}
+          </div>
+        ) : (
+          <p className="subtle small">
+            Run a fit analysis to get a score, strengths, gaps, and a short application opener for
+            Easy Apply or recruiter DMs. Heuristic works offline; Claude needs a key.
+          </p>
+        )}
       </section>
 
       <section className="letter">

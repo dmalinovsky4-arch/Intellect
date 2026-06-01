@@ -1,6 +1,15 @@
 import { RESUME, resumeAsPlainText } from "./resume";
 import type { Job } from "./types";
 
+export type FitAnalysis = {
+  score: number;
+  summary: string;
+  strengths: string[];
+  gaps: string[];
+  opener: string;
+  nextAction: string;
+};
+
 function todayLong(): string {
   return new Date().toLocaleDateString("en-US", {
     year: "numeric",
@@ -117,4 +126,148 @@ Constraints:
     .map((c) => c.text)
     .join("\n")
     .trim();
+}
+
+const RESUME_KEYWORDS = [
+  "teacher",
+  "teaching",
+  "education",
+  "educator",
+  "curriculum",
+  "instruction",
+  "classroom",
+  "student",
+  "social studies",
+  "middle school",
+  "middle grades",
+  "high school",
+  "k-12",
+  "k12",
+  "special needs",
+  "differentiated",
+  "regents",
+  "nys",
+  "new york",
+  "license",
+  "licensed",
+  "leadership",
+  "operations",
+  "logistics",
+  "vendor",
+  "budget",
+  "russian",
+  "council",
+  "model un",
+  "after-school",
+  "after school",
+  "summer camp",
+  "camp",
+  "lesson plan",
+  "professional development",
+];
+
+export function heuristicFitScore(job: Pick<Job, "title" | "description">): FitAnalysis {
+  const text = `${job.title} ${job.description}`.toLowerCase();
+  if (!text.trim()) {
+    return {
+      score: 0,
+      summary: "Not enough info — paste the job description for a real score.",
+      strengths: [],
+      gaps: [],
+      opener: "",
+      nextAction: "Paste the job description to enable fit analysis.",
+    };
+  }
+  const hits = RESUME_KEYWORDS.filter((k) => text.includes(k));
+  const score = Math.min(100, Math.round((hits.length / 8) * 100));
+  const strengths = hits.slice(0, 5).map((k) => `Resume mentions "${k}"`);
+  const gaps: string[] = [];
+  if (!/teach|education|curriculum|classroom|student/.test(text)) {
+    gaps.push("Role may not be education-focused — confirm fit.");
+  }
+  if (/\b(senior|director|principal|chair|head of)\b/.test(text) && score < 50) {
+    gaps.push("Seniority signal in posting; consider whether your title history matches.");
+  }
+  return {
+    score,
+    summary: `Offline heuristic match — ${hits.length} resume keyword(s) found.`,
+    strengths,
+    gaps,
+    opener: "",
+    nextAction: score >= 60 ? "Apply this week." : "Review fit before spending time on a tailored letter.",
+  };
+}
+
+export type AnalyzeOptions = {
+  apiKey: string;
+  model: string;
+  job: Pick<Job, "title" | "company" | "url" | "description">;
+};
+
+export async function analyzeFitWithClaude(opts: AnalyzeOptions): Promise<FitAnalysis> {
+  const { apiKey, model, job } = opts;
+  const system = `You are evaluating job fit for ${RESUME.name}. Use only the resume below. Be honest — do not inflate. Return JSON only.
+
+RESUME:
+${resumeAsPlainText()}`;
+
+  const user = `Score this job posting against the resume.
+
+Role: ${job.title || "(not provided)"}
+Company: ${job.company || "(not provided)"}
+URL: ${job.url || "(not provided)"}
+
+Job description:
+${job.description || "(none provided)"}
+
+Return a JSON object with this exact shape, no markdown, no commentary:
+{
+  "score": <integer 0-100>,
+  "summary": "<one-sentence overall verdict>",
+  "strengths": ["<bullet>", "<bullet>", "<bullet>"],
+  "gaps": ["<bullet>", "<bullet>"],
+  "opener": "<2-4 sentence application opener suited for LinkedIn Easy Apply / recruiter DM — first person, specific, no clichés>",
+  "nextAction": "<one short concrete next step>"
+}`;
+
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      "x-api-key": apiKey,
+      "anthropic-version": "2023-06-01",
+      "anthropic-dangerous-direct-browser-access": "true",
+    },
+    body: JSON.stringify({
+      model,
+      max_tokens: 1200,
+      system,
+      messages: [{ role: "user", content: user }],
+    }),
+  });
+
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`Anthropic API error ${res.status}: ${text}`);
+  }
+  const data = (await res.json()) as { content: { type: string; text: string }[] };
+  const raw = data.content
+    .filter((c) => c.type === "text")
+    .map((c) => c.text)
+    .join("\n")
+    .trim();
+  const jsonStart = raw.indexOf("{");
+  const jsonEnd = raw.lastIndexOf("}");
+  if (jsonStart === -1 || jsonEnd === -1) {
+    throw new Error("Claude returned no JSON. Raw response: " + raw.slice(0, 200));
+  }
+  const parsed = JSON.parse(raw.slice(jsonStart, jsonEnd + 1)) as Partial<FitAnalysis>;
+  return {
+    score: Number(parsed.score ?? 0),
+    summary: String(parsed.summary ?? ""),
+    strengths: Array.isArray(parsed.strengths) ? parsed.strengths.map(String) : [],
+    gaps: Array.isArray(parsed.gaps) ? parsed.gaps.map(String) : [],
+    opener: String(parsed.opener ?? ""),
+    nextAction: String(parsed.nextAction ?? ""),
+  };
 }

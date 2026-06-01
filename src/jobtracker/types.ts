@@ -24,6 +24,11 @@ export type Job = {
   description: string;
   notes: string;
   coverLetter: string;
+  opener: string;
+  fitScore: number | null;
+  fitStrengths: string[];
+  fitGaps: string[];
+  fitSummary: string;
   createdAt: number;
   updatedAt: number;
 };
@@ -45,6 +50,11 @@ export function newJob(partial: Partial<Job> = {}): Job {
     description: "",
     notes: "",
     coverLetter: "",
+    opener: "",
+    fitScore: null,
+    fitStrengths: [],
+    fitGaps: [],
+    fitSummary: "",
     createdAt: now,
     updatedAt: now,
     ...partial,

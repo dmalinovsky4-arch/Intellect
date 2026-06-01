@@ -3,6 +3,7 @@ import { useJobStore } from "./store";
 import { STATUSES, type Status, type Job } from "./types";
 import { RESUME } from "./resume";
 import { JobDetail } from "./JobDetail";
+import { jobsToCsv } from "./csv";
 
 function statusClass(s: Status): string {
   return `status status-${s.toLowerCase()}`;
@@ -18,11 +19,14 @@ export function JobTracker() {
   const [filter, setFilter] = useState<Status | "All">("All");
   const [query, setQuery] = useState("");
   const [showSettings, setShowSettings] = useState(false);
+  const [minScore, setMinScore] = useState(0);
+  const [bulkOpen, setBulkOpen] = useState(false);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return jobs.filter((j) => {
       if (filter !== "All" && j.status !== filter) return false;
+      if (minScore > 0 && (j.fitScore ?? 0) < minScore) return false;
       if (!q) return true;
       return (
         j.title.toLowerCase().includes(q) ||
@@ -31,7 +35,7 @@ export function JobTracker() {
         j.notes.toLowerCase().includes(q)
       );
     });
-  }, [jobs, filter, query]);
+  }, [jobs, filter, query, minScore]);
 
   const counts = useMemo(() => {
     const out: Record<string, number> = { All: jobs.length };
@@ -43,11 +47,27 @@ export function JobTracker() {
   const selected = jobs.find((j) => j.id === selectedId) ?? null;
 
   function exportJSON() {
-    const blob = new Blob([JSON.stringify(jobs, null, 2)], { type: "application/json" });
+    download(
+      JSON.stringify(jobs, null, 2),
+      `job-applications-${new Date().toISOString().slice(0, 10)}.json`,
+      "application/json",
+    );
+  }
+
+  function exportCSV() {
+    download(
+      jobsToCsv(jobs),
+      `job-applications-${new Date().toISOString().slice(0, 10)}.csv`,
+      "text/csv",
+    );
+  }
+
+  function download(content: string, filename: string, mime: string) {
+    const blob = new Blob([content], { type: mime });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `job-applications-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = filename;
     a.click();
     URL.revokeObjectURL(url);
   }
@@ -76,9 +96,14 @@ export function JobTracker() {
           <p className="subtle">{RESUME.name}</p>
         </header>
 
-        <button className="btn-primary" onClick={() => addJob()}>
-          + New Application
-        </button>
+        <div className="add-row">
+          <button className="btn-primary" onClick={() => addJob()}>
+            + New
+          </button>
+          <button className="btn-secondary" onClick={() => setBulkOpen(true)}>
+            Bulk import URLs
+          </button>
+        </div>
 
         <div className="search">
           <input
@@ -86,6 +111,21 @@ export function JobTracker() {
             placeholder="Search title, company, notes…"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
+          />
+        </div>
+
+        <div className="score-filter">
+          <label className="score-filter-label">
+            <span>Min fit score</span>
+            <span className="score-value">{minScore || "any"}</span>
+          </label>
+          <input
+            type="range"
+            min={0}
+            max={100}
+            step={5}
+            value={minScore}
+            onChange={(e) => setMinScore(Number(e.target.value))}
           />
         </div>
 
@@ -121,7 +161,8 @@ export function JobTracker() {
                   <span className={statusClass(j.status)}>{j.status}</span>
                 </div>
                 <div className="job-row-bottom subtle">
-                  {j.company || "(no company)"} {j.location ? `· ${j.location}` : ""}
+                  <span>{j.company || "(no company)"} {j.location ? `· ${j.location}` : ""}</span>
+                  {j.fitScore != null && <span className={`fit-pill ${fitClass(j.fitScore)}`}>{j.fitScore}</span>}
                 </div>
               </button>
             ))
@@ -132,8 +173,11 @@ export function JobTracker() {
           <button className="btn-ghost" onClick={() => setShowSettings((v) => !v)}>
             {showSettings ? "Hide" : "Settings"}
           </button>
-          <button className="btn-ghost" onClick={exportJSON}>
-            Export
+          <button className="btn-ghost" onClick={exportJSON} title="Export JSON">
+            JSON
+          </button>
+          <button className="btn-ghost" onClick={exportCSV} title="Export CSV for Google Sheets">
+            CSV
           </button>
           <label className="btn-ghost">
             Import
@@ -143,6 +187,8 @@ export function JobTracker() {
 
         {showSettings && <SettingsPanel />}
       </aside>
+
+      {bulkOpen && <BulkImportModal onClose={() => setBulkOpen(false)} />}
 
       <main className="detail">
         {selected ? (
@@ -157,6 +203,64 @@ export function JobTracker() {
           </div>
         )}
       </main>
+    </div>
+  );
+}
+
+function fitClass(score: number): string {
+  if (score >= 75) return "fit-good";
+  if (score >= 50) return "fit-ok";
+  return "fit-low";
+}
+
+function BulkImportModal({ onClose }: { onClose: () => void }) {
+  const bulkAddUrls = useJobStore((s) => s.bulkAddUrls);
+  const [text, setText] = useState("");
+  const [result, setResult] = useState<{ added: number; duplicates: number } | null>(null);
+
+  function submit() {
+    const urls = text
+      .split(/\s+/)
+      .map((s) => s.trim())
+      .filter((s) => /^https?:\/\//i.test(s));
+    if (urls.length === 0) {
+      setResult({ added: 0, duplicates: 0 });
+      return;
+    }
+    const r = bulkAddUrls(urls);
+    setResult(r);
+    if (r.added > 0) setText("");
+  }
+
+  return (
+    <div className="modal-backdrop" onClick={onClose}>
+      <div className="modal-card" onClick={(e) => e.stopPropagation()}>
+        <h3>Bulk import URLs</h3>
+        <p className="subtle small">
+          Paste job posting URLs (one per line, or separated by spaces). Duplicates against existing
+          jobs are skipped. Title and source are guessed from the URL where possible — open each new
+          job to fill in details and run a fit analysis.
+        </p>
+        <textarea
+          value={text}
+          onChange={(e) => setText(e.target.value)}
+          placeholder="https://www.linkedin.com/jobs/view/...&#10;https://boards.greenhouse.io/.../jobs/..."
+          rows={10}
+        />
+        {result && (
+          <div className="bulk-result">
+            Added <strong>{result.added}</strong>, skipped <strong>{result.duplicates}</strong> duplicate(s).
+          </div>
+        )}
+        <div className="modal-actions">
+          <button className="btn-ghost" onClick={onClose}>
+            Close
+          </button>
+          <button className="btn-primary" onClick={submit}>
+            Import
+          </button>
+        </div>
+      </div>
     </div>
   );
 }
