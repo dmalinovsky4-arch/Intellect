@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-06-02T02:52:59.868Z",
+  "generatedAt": "2026-06-02T15:49:24.062Z",
   "newJobs": [
     {
       "source": "Google News - Social Studies Teacher NY",
-      "title": "Election: Seven vie for three school board seats - South Jersey Media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0JEVEM3T3JnWDg1bkgyNHVuZnJIZVlqME1ZdzFMck1iUmh0a3E5Y3ZLS3pNOUlmYXBMWEM2TlBHQ1ZXb2FCNkQ0azd5Z2VPd3dRYnk2RmU3RlEwa1VORmlPVjctSWlCS3VOUWR3emRyOGVzNFFNczRkSHA1QkJNUUttU1ZCTnV5QWxudndVblZLUVdwUHE0aw?oc=5",
-      "description": "Election: Seven vie for three school board seats South Jersey Media",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+      "title": "BCMS teacher named NYS Outstanding Social Studies Teacher - Bethlehem Central School District",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzhFUGNQam9Yd2JSMWR1bGZzN3I4RFNGUk9rRmFuR1Q2N2JvV0c3ZVBuX3NOSFBVZWtSR09fczhpeV9LTU9SeEpRUGhyeHVkOWN0b0F6ZmZoZ3gxeFc3alI1VGhSa1h5eGtuNjFDN0ZIa1YtdlVMalVaM3VXQVRTZWZBdTNmQlNQbHNLZzhlUjI1ZmlEYlE?oc=5",
+      "description": "BCMS teacher named NYS Outstanding Social Studies Teacher Bethlehem Central School District",
+      "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Starting over: After a stint in the film industry, Aubrey Moog-Ayers found teaching high school was a better fit for the life she wanted - VCU News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcHhUazhXWExFdVYwc2JwcVoyMm83b3BSRzFOR2RoRWVka2RNSUhiRFp6YnRMX2hFR3MzMHBiSWdXUkd0aXZRVkNpMHZGeE5NZFROZXlFRzR4Ny1vZ09EQU4xZ1JjRGdad1p0WFNWMHZSY2VYd1hwSWxYQXc3WUZBblZUb3BIUHQ1U0dqRTN5TW1TS0VrZmdlUTMtLW0zWXNQa0lrb20wSzhOUjhnM1l6YTJB?oc=5",
+      "description": "Starting over: After a stint in the film industry, Aubrey Moog-Ayers found teaching high school was a better fit for the life she wanted VCU News",
+      "pubDate": "Thu, 13 Jan 2022 08:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Teachers want the public to know their job is difficult, new survey finds - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnE4MnZsbUtpR3E3SWdKVm9BRDFRdFJFVk5SVkh3Sk1CdEdYMHJJX2lmTGpzdWdfRWNiZlZzTXJsaHB4SnBQczl3TEY5ZEQyMWYyRmhTRlFzUU43dXVxckhYams4Zi1mLWRrcnV5Q2d5RE5ibDJ5V3lQRmE2SElCVVhUNVhpaTdlWUR1bTh0eHlMS29KS1lRZW53WEVQS2NubmtzTGZfN3hOUdIBrwFBVV95cUxOUGs0V1Z2SGZHcUduSDdnTXJoblRHQ1RSVkJJRmwtRGRVcUJ4dzZPNHBrVkhta1VJY254ZGVCZUk5QWU1Tmhud1g3RjI1MGdPaXlIVEJtVGJXYXB3bE1YS1MtYzhMTGhleG1DdzNPTm1fcDJja0x3eDFXS2JjRlBOcU4ybXdoWGRobU1TWWg5bjRIQ0VtalZlVEtNTDJOQ3NCdHd1UWpyR1Q2MWxzVHBB?oc=5",
+      "description": "Teachers want the public to know their job is difficult, new survey finds ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 04 Apr 2024 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "News 8 sits down with new York school superintendent - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFhQUi1qdEhnNnpTM0hMblJvZy1nMlRWUEJNUkVXcG9EN0FYVWMwU1N4V2NFNXVIMzh1Qi1zSTlxdmU4SFg0UGJaaWNsQWkyU3lrUy1JV05RNWQ0ZnoyN2dKMzdxZjJfRS00dUgxb3ljNzhnLUE4WmI0c3pXLTBqUTdLTWtFalNiOWNTMXN6VUJsSEU?oc=5",
+      "description": "News 8 sits down with new York school superintendent WGAL",
+      "pubDate": "Wed, 01 Aug 2018 02:01:11 GMT"
     }
   ],
   "sources": [
@@ -22,12 +43,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 46,
-      "kept": 1
+      "items": 57,
+      "kept": 4
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 20,
+      "items": 19,
       "kept": 0
     },
     {
