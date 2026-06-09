@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-06-08T15:19:31.975Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Teacher of the Year uses engaging tools to prepare students for college and careers - NYSUT",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3V5azI3QkhPVGlpZHpDM3RBclZWOXg3VlJtN0p1MkJXUkhncThyX2xZT2FJTnFqNmlmT0lfUVotQ3MwLVpOdjJyREdrQU5ZZFhVY0lmdkxPc0dUSHE3R1RfQzduRmZ3VElxV0tMQU9WcEYybmg2b0piS3FQbUNsWGxjbTR1WXNabk56cE9Md19LODZIZ2xDQVBvSVNPcHAyVnVMUEdLZDVYMDdTZkFFQ0NCV0gzUUdpZ1VKb0d5TWJVcGZrblo5LTlVRDR1dkdPWEpOUF9tWHVRZHBiOVhN?oc=5",
-      "description": "Teacher of the Year uses engaging tools to prepare students for college and careers NYSUT",
-      "pubDate": "Fri, 29 Mar 2013 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Foundation Honoree: Michael Kovalyk, YAHS Social Studies Teacher - Patch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXlEcDdabkFwMmxuQjR3d1FSeXVqMzRaWG1Cd08xYWg1aldUSDR2WjlJVkh4bmtOaEVDSm9JWkhaOVM5VzBzTVlibFFOcGdRX1VvZEVsLUw2eVo3N1BDSDNzUjh2OFdveHhDMVh3d2Z2RHV5cWlOS3RldXVzcDFQRVl3MEZTYTVwT21STEthRTlvZjZEVXc4bDM4b2xQVmdIMzVqNjFqVHQ?oc=5",
-      "description": "Foundation Honoree: Michael Kovalyk, YAHS Social Studies Teacher Patch",
-      "pubDate": "Thu, 08 Mar 2012 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-06-09T02:31:13.716Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -29,8 +14,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 51,
-      "kept": 2
+      "items": 52,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
