@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-06-11T02:54:27.603Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "New Administrators and Teachers at Rye High School - MyRye.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkVIMExpMDN4aXNrVVR1X3p5b0M4NFBlZTBaNkRFVFJNNzZXdElYYzM5cW1KUUJTRDlOSnk4Vm9GM3J3MHI5QVhOVDZubnZPYzM2V00zZ3pqaU9sM1Jlb2ZtWVpNcTEzYUdfZFg3ekFUYzFCTTJnVW1oRW9RT0hpZ01QSQ?oc=5",
-      "description": "New Administrators and Teachers at Rye High School MyRye.com",
-      "pubDate": "Fri, 22 Aug 2025 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-06-11T15:25:03.569Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -23,11 +15,11 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 52,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
+      "items": 17,
       "kept": 0
     },
     {
