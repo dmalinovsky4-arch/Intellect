@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-06-13T13:15:49.518Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Staten Island teacher by day, stand-up comic by night, performs Aug. 8 - SILive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblZDeEZJZk52c0trRVNWX1ZDUFF3TUlCNVZMdE1tT3cyaE5YYWFwb3k1ajRsN0kyZmQ1aG1EeENTbmRfbzBEVXpZNlF5ZkpnRUliWGxiaEd3VTltOW9PZ3FlbC1fSUJXQlotOUczY3M4cXZTX1lSYTBEZkwzallMbkZKc2NyUTNVcFcwMENseS1LcjBsRmdrd090YXZDVlNtMl9UMWd2dFpFR2FlRi1lS0RHOTRsUjNr0gHMAUFVX3lxTE5XcTRZSEhRQkFZUHFwcmdhT2NkRmhjQ2RNbDhHeXh4WTVpeG9PRW5OUGZ5bUxwTlNyek92ZHZaSTFRakhhc1FHWTRrTW9wUkpQeXZkWHBXeDUtMmFoMHBMR080TE5Fb25VT0hMbUJRcTBqNDJXbnFJTGJCVUlRVkhsSDJwYkVWZHpDbXJEdGdEdWdJRzF5ajM5ZEJGZjdXdFlrSUF5dVhNcmVjaDBadEFiUExGNnNBbk04R1NSZ0hFd2tFaDNEa0ZQX3NLSw?oc=5",
-      "description": "Staten Island teacher by day, stand-up comic by night, performs Aug. 8 SILive.com",
-      "pubDate": "Mon, 05 Aug 2024 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-06-14T02:55:26.866Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -21,12 +13,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 52,
-      "kept": 1
+      "items": 51,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 17,
+      "items": 16,
       "kept": 0
     },
     {
