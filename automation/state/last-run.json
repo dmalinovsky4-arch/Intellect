@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-16T16:16:43.307Z",
-  "newJobs": [],
+  "generatedAt": "2026-06-17T02:57:58.185Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Yoga teacher loses her job for telling influencer not to drink water during class - LADbible",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtyZWJSSzAxTms2ci1qVnRQQUE2ellBV1JTYlNyckRwbzdtdHkzNVRHOVE2Q3BNeEFHQkpETGFaME5YamJIU21uUWhlaFUyQWVfbG1wRm1zNnBtbHQtZUlXZWdacHBjZGVKcUs0cFI4MU9RZHVMY3FMb05jZ1RpNk85WHRaYlJaYlNIRF94RW5TWVpVTmhZSDRIR3FCR3dKZE9vRnNhUXl6NXl6OWoydzVfNEZNLWFY?oc=5",
+      "description": "Yoga teacher loses her job for telling influencer not to drink water during class LADbible",
+      "pubDate": "Fri, 04 Apr 2025 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -18,8 +26,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 17,
-      "kept": 0
+      "items": 18,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
