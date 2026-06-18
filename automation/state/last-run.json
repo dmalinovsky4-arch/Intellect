@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-17T14:42:18.842Z",
-  "newJobs": [],
+  "generatedAt": "2026-06-18T02:55:31.625Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Rye City School District Welcomes 22 New Faculty and Staff Members - Rye Record",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3FVd25LNDFTdlZzeTdwMUk3WnNBWU9PeUM1UWdBTV82X1ZmMzVoaFZ0Ukx1REpkX2xtVGNTeWVJd1hBbGRuMEZYWGJ5bmdKellJaGpWVU9tbmlZSTV2UEl5clA1ODhWaUxDdVRPVVhOeVdTSnhZRWxOdjA5TmZsTEdZaE9HcFBSb2Rland0eTkxbHM?oc=5",
+      "description": "Rye City School District Welcomes 22 New Faculty and Staff Members Rye Record",
+      "pubDate": "Wed, 20 Aug 2025 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,12 +21,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 49,
-      "kept": 0
+      "items": 50,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 9,
+      "items": 16,
       "kept": 0
     },
     {
