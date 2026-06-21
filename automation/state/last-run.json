@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-06-21T02:58:53.403Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "SUNY Cortland Students Attend NYSCSS’s Pre-Service Teacher Night - SUNY Cortland",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGpqYThMcno4c05Ec2pBS0FTakgxQ29oVnJHTUZQN2o5S2xHaWFMWnkzMUJWUGNOMmEtWE1icVpzd2FJVnBxOVJVdkhwN0pNT3FwZXN3MTZ4X3hpdkhRMHFxQ1pXQ2xuLU15bGdQS25kMm04MzVZZndjZkFOMEtDYWxQcw?oc=5",
-      "description": "SUNY Cortland Students Attend NYSCSS’s Pre-Service Teacher Night SUNY Cortland",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Dean and History Teacher Mr. Richardson to Retire After Three Decades of Service - The Midwood Argus",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGNCU3R2Xzlha1NqM283YnVBNmMzdTJsYVRzNERmUWpZMDJ3V0hWQ1RSNVQ3R3ZGWGJUejhtdHdMSjhoZ2tHeF9RRHNvTVM5d01JVmlCVUxxSzFFY2VOOGVnR1hGVHVMMFVTaVM2dm1HeE9sa29jNzBZei1LQ0lfc2lRbmNfa0JvY0NXSHNxemRSdmdzOEdHWXliZ2o5QU9IbGZjczVuVUNQUjhUMGpMZ0YzTWdyUjNEMk5VS1pZX3Y?oc=5",
-      "description": "Dean and History Teacher Mr. Richardson to Retire After Three Decades of Service The Midwood Argus",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-06-21T13:28:13.041Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -28,13 +13,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 51,
-      "kept": 1
+      "items": 50,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
       "items": 18,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
