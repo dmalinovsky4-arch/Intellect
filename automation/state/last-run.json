@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-22T16:20:52.269Z",
-  "newJobs": [],
+  "generatedAt": "2026-06-23T02:36:20.138Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Rye High Social Studies Teacher Appointed as New Assistant Principal - Rye Record",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDRoM0U5eFlaX3FDUHhwcDVCN3VBV28weV9pQmhDSngycm1yek1sbzlXakFPa2ZMRUhWUDFYb0J3SG9tSFJwMHRxWWVJUWRzZjVoODlvTmxZZWRYN01YQlVhRlIyNGJrX1JuSFJaOGRTaEZHOVd1ckhobjF4alJvMHh6eXR1VWdUODg5RkZDZ0lZblJrNFE?oc=5",
+      "description": "Rye High Social Studies Teacher Appointed as New Assistant Principal Rye Record",
+      "pubDate": "Wed, 18 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Study: Florida's teacher salaries don't make the grade - St. Augustine Record",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0IxakFSSGVYV0NFQmFNWHdvUjVPRjZKX0ZsdjZLYk4xT0FDNFlxMjhrdGRuaXI0UUxBMjBDWVZDNUJ4Sy1OZXVNVGFGcHBJdE9jQUVzaXY3OERKME80T21xNVFyUUJTQWJaTjhub0dVMXdrM2tmZ05RMmV1Tmt0OGNSb253VWhXSWZNcXp3SllFLWhxVHh3QzE4WC1sX2lGVWU4?oc=5",
+      "description": "Study: Florida's teacher salaries don't make the grade St. Augustine Record",
+      "pubDate": "Sat, 12 May 2018 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Former Coney Councilmember Mark Treyger appointed to city schools position - Brooklyn Paper",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamZlOFZqQ3lGU3NTMVA3SDI5c1BGMTE5ZE1leUFtS1M3WHBmLU42VDFYbVdYRE04RnlJOHRfSjYzb19Vc3dKeUZrRVh0QjdZQmE1MkNQNUVpSDlSb2cyNnVQY3lqVWtVSGJnV0pGcjBBUlhIM0dHUFdMakFGUEVzbw?oc=5",
+      "description": "Former Coney Councilmember Mark Treyger appointed to city schools position Brooklyn Paper",
+      "pubDate": "Wed, 19 Jan 2022 08:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -14,12 +36,12 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 50,
-      "kept": 0
+      "kept": 2
     },
     {
       "name": "Google News - History Teacher Brooklyn",
       "items": 18,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
