@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-06-25T02:38:06.174Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "The Connection Between Curriculum, Professional Development and Teacher Morale - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdlQ1c0RoRWJ2Z3VhSV9xV0RTcFJhcWlZWnhUWERyUkFyNjVHM0FuN0t3cFpjUnpndmNnVFNXLVpCaVdSV1A2clNaV3pNZF9yQ2VUaU1TeXByVUZpQlpRNEQwSEFMbzJadVM4eTlfd0RYMFcxY09qQjQ2VElNaGM5M3NlcEtmZVlaZjNlTERIZmZDUXRxZkM0QkxQUUtibHZrTjY1cG1GVlpDUmFManM4M1FMRk5SR1N3YjJ1aG12aWEzNFVmX1c4TllyTktSUU9wcnNXSU5n?oc=5",
-      "description": "The Connection Between Curriculum, Professional Development and Teacher Morale Education Week",
-      "pubDate": "Fri, 27 Jun 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Detroit teacher, Domonique Brown, fired after her rapping career, Drippin Honey, drew complaints from parents - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSlhlcDJwNXVrN3VSaDBCMXpmNjA1OG1NdlFkVjNlbTdPLW9uQWdzZ3VYNDBuYVpaMXFfSWhjUGYwYXNHZFp5U2t2UUN1RTd0WFFSbGZGMkx0T0Q2YmVkVmtCSXBtOXFuSFJRdlVqeXFDYkVqdHhIYjBzWXJ0aVZoZVdDUWlDNnJIM01xeTJoR1NCYUVVbV9QOFN4WFFUeGJxeVZMQnZzT05fRndGWHhQN3QxZG55UFpnSDcyY1hUWFd3d1VuUDROZVdDV3JoTlNrZkMtWUc3MV9fOWRj?oc=5",
-      "description": "Detroit teacher, Domonique Brown, fired after her rapping career, Drippin Honey, drew complaints from parents New York Post",
-      "pubDate": "Fri, 22 Mar 2024 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "One Teacher's Story: I Hate My Job and Want to Quit Now! - HubPages",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV05IT2JsWW1ENjYtTWlYR01lYjE1SUVQbzRpTmFkaXZCNlQzTGxwVmRxeHhBRlVISW9BeHZaWW1oOEdxWk5OVGhTQ0lkUGpGdFRFMXRJZjZJT0FVSTN3UWpwekhKeEFLMU1qcWZhYUtFemQ0dGhtMlJmSGV1VF9GcQ?oc=5",
-      "description": "One Teacher's Story: I Hate My Job and Want to Quit Now! HubPages",
-      "pubDate": "Wed, 07 Sep 2022 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-06-25T13:53:29.485Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -35,13 +13,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 47,
-      "kept": 1
+      "items": 48,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 20,
-      "kept": 2
+      "items": 19,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
