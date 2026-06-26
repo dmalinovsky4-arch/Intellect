@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-25T13:53:29.485Z",
-  "newJobs": [],
+  "generatedAt": "2026-06-26T02:41:25.671Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Illinois man sets world record for 53-year career teaching social studies - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0tEZWVRcE9oZFd6Rlp4U2tuVlJxNU51VV9acDR2WG53QUJhcHVhTUpFZXJQZmxTVUNIYlRsdGpzdmhjanU2RnJHVTBhY2JRVGhuTDV4UHVpREZfa2t5b1RWZHIwVF9OcXVaZllXOWtCcUM4UGhrbHRPMDVsOFA4cHl6d1lNZTUweFd3T0tqVkVoTGc5RTk5V0p4REkyLTVoeDdKdHA2NHlCM3FUcUdiS0laVDROQzg?oc=5",
+      "description": "Illinois man sets world record for 53-year career teaching social studies The Guardian",
+      "pubDate": "Wed, 11 Oct 2023 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +21,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 48,
-      "kept": 0
+      "items": 49,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
