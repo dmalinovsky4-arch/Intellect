@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-27T13:00:45.219Z",
-  "newJobs": [],
+  "generatedAt": "2026-06-28T02:46:44.955Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Popular Canarsie high-school teacher removed and interrogated over social-media post - Brooklyn Paper",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlljWG9fanBRYWtMWXpXdktWbjVHX1VMemFSLTFzNzdTeHNaeGdiMUxVRUdDVHY2SGN1TnNOZ2xnR2tObjBSaTB4Xy1ndFhkNVNSY0JPYnJSVUJ4dHR1U1YtRThad0NwdkN1SVBYaC1XUUg5LWVpTTlHTGN4NFpNckxHUElQNjFwT1Z1OXhFb2RaZ1VtamxtSlI3MkpZQmtTQmpKLURkQktKMm9neVNWXzg3ZDFFQQ?oc=5",
+      "description": "Popular Canarsie high-school teacher removed and interrogated over social-media post Brooklyn Paper",
+      "pubDate": "Wed, 17 Oct 2018 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -18,8 +26,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 21,
-      "kept": 0
+      "items": 22,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
