@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-07-03T02:12:40.165Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Rubber-room bosses thought napping on the job was hilarious: teacher - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnRuLVM5cU96Zjd6ZG1lempLSWxCTzJYYlNsRF9HN1BOWjhZd3h1d3NEbkZlY3dpOVZxdGx1SnIxY2ZJbkM4TGRrMXJuaTZXcXB1ZVVtVzg2cU81Mk9adXYyY0duTDZmaUV1RW90Zlp4cW9RbXNZZW1WRGkzUUFxOWJ1dXpXLVlaMExvY3hQVzhIRjh5akNIczZlX0tJekU?oc=5",
-      "description": "Rubber-room bosses thought napping on the job was hilarious: teacher New York Post",
-      "pubDate": "Mon, 18 Jan 2016 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-07-03T13:25:09.556Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -22,7 +14,7 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 50,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
