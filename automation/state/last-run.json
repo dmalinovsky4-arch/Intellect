@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-07-04T12:51:36.852Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Jewish day school asks teacher to leave after she was outed as trans - jewishjournal.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1hLRmNlZmNJYW5hN3k4Nk1rZS1UZDZmVzhCZ3U4UnNCOUFiZW9YOGJIa2RiNldyUkdmNTB4bldHelNRYkctT1RZMHdRNElvNUJZZWVOYkUzRE50SGpCNEFGZGRsaVJlUjN5RENzaTBKdnRzT1NfS1pvWUU5Y0N5bHpBbk5tMFF0b0dMa2dCYnpKdnNnZm0wYjJka1drQlNUd3plNm9JakNXUQ?oc=5",
-      "description": "Jewish day school asks teacher to leave after she was outed as trans jewishjournal.org",
-      "pubDate": "Thu, 22 Sep 2022 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "The Substitute 2: School's Out (TV Movie 1998) ⭐ 5.2 | Action, Crime, Thriller - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yVnJlU0xnMnMtR3cwdU05U0pnUl9SV3Y3ME04b0dIc2VpV2lMc2pQRWpxaWhNVEExY2Jta2NFbkFBV2c2SEVzWWJSSXA4Zw?oc=5",
-      "description": "The Substitute 2: School's Out (TV Movie 1998) ⭐ 5.2 | Action, Crime, Thriller IMDb",
-      "pubDate": "Thu, 28 Jan 2016 03:23:52 GMT"
-    }
-  ],
+  "generatedAt": "2026-07-05T02:26:59.175Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -29,12 +14,12 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 49,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
       "items": 21,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
