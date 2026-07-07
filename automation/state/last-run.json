@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-07T02:26:38.657Z",
-  "newJobs": [],
+  "generatedAt": "2026-07-07T13:57:42.854Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "The Implications of the Missing Infrastructure for Elementary Social Studies - RAND",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkg3ME82bE95V01nV2JSblZkU01wS1RuSVV6R19aOEgwZlBUM294eGRDY3JiMEZSa0pleXNJb1pQUHl0cW8wM1RHV0JKajh3Z0puRk80NUxKdVFDZmlDeU9BbFpkcjhSRW43LThrTjEzNGtYOVhPTmNxeHFwTVV2YlJGdkNBcDlqaFRsaGN4VmZRQ3VZYmQtVHYxMjFFcVBUek8tdlJhMjBVanUxODBienZQVHFUcU1t?oc=5",
+      "description": "The Implications of the Missing Infrastructure for Elementary Social Studies RAND",
+      "pubDate": "Wed, 22 Feb 2023 20:57:55 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Free State social studies teacher selected for assistant principal job at LMCMS - The Lawrence Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85WXlqNXdaVEVtN2VlRllxQVdrVmJ1QkJ2cFFaaUtWN1Qzei1lUU5WZTJLQVMzMVFuYVE3NDBUM1EzaEI4Q3g2NE9zU1k0MXBqb0ZFSUxfOUpkdEdOeTZ5bUVxdGxhd3N4ckNXN2ZMZ2RWOUpRX2UybXlOY2J3ak0?oc=5",
+      "description": "Free State social studies teacher selected for assistant principal job at LMCMS The Lawrence Times",
+      "pubDate": "Sat, 13 May 2023 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "States to Prioritize Hiring Teachers of Color - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEdCa29HbWdIeFBhQ1E0Y2x4b3FFbGRVeWNtNnVSOWk1SW9wb1dvVjdGRm9kb204a0xhaWpYNmpiN0I1X0xuT3owaldkTTZiT3dyN1FtY3pjcmZlbWNBQ0x2bWdJRVVnQjlTWkFrZlJwWUdQQWVWQk5xLXBZazdneUtPSTA3dWY0SVhEd2NHOHBZUnVVVzJCa0dqWmpEMnN5d0d4NVlLVHRWS3Uw?oc=5",
+      "description": "States to Prioritize Hiring Teachers of Color U.S. News & World Report",
+      "pubDate": "Wed, 28 Mar 2018 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,12 +35,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 49,
-      "kept": 0
+      "items": 44,
+      "kept": 3
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 18,
+      "items": 17,
       "kept": 0
     },
     {
