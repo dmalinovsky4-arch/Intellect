@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-07-08T13:19:59.785Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Ria Mehta | News | Education Policy | Education Policy & Social Analysis - Teachers College - Columbia University",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUh3U2tUYXQ4a0FndkJWallFWVp0eE03MGpTbFRZWTFNcjlkM1N1UjJOS3BLUFJPQ1RMZ011NlhoTlR5NDN6WHc1NTY0YzlneXhUS3FZU2Q5VElGMm11NWMzeHM1RjkyNWhhN1JTczJGcy1mVDlFMHh0Z3drS0MyeW9jc2RGVFF4azBfS1U0R3hmX0RENk9jaHoxNjlyY3JMZnVWX05EMWw?oc=5",
-      "description": "Ria Mehta | News | Education Policy | Education Policy & Social Analysis Teachers College - Columbia University",
-      "pubDate": "Fri, 22 Nov 2019 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-07-09T02:13:02.646Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -21,8 +13,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 48,
-      "kept": 1
+      "items": 49,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
