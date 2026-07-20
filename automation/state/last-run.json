@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-20T02:21:03.516Z",
-  "newJobs": [],
+  "generatedAt": "2026-07-20T13:31:16.117Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "How America's teacher shortage is leading uncertified educators into classrooms - dailymail.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkRXUWFGSGVPZHktcUJQYUpGTjg2bWl3SldlSVN6NFZBeEd5ZGtkR24xc0VHVG40RGFIalc3RXltTVNhengzY0N3VzNLRXloblBwR1MtMGRZWHhDZzRJblhjYTVHQUJObDBCd3pkSEFUZjJnLW9rRGNYVGpZcTJJaGdQXzB2dEpucm9tUnExUEg1UFhFNXJVdWFZUDdHVjdfZ0d2S3hsVE5pQmU5bmYw0gG0AUFVX3lxTFBaUmdEOXVrWXBDeThOSHlIeHpac0V2aVRhdTNTeTdJRGJzZlF3dENHUHNBYTJTRk5UMGExaWpzd1dKYjBXbFU1VEdRRHl5RmVhRnZxYUpGM29XbWwxUU84UEF6MHlfQkcwVWYxelJheDdCNW1aVVNTWUpKekY5TVpONk9SZGhRUUhnejFJWVlpR2t5MldNQkdRdi1TcXJQV2ZYSF9uMGtWN2RpZ0NVTk5vdHlqUg?oc=5",
+      "description": "How America's teacher shortage is leading uncertified educators into classrooms dailymail.com",
+      "pubDate": "Tue, 14 May 2024 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,13 +21,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 46,
+      "items": 47,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
-      "kept": 0
+      "items": 17,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
