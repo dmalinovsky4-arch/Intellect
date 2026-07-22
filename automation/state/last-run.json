@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-22T01:57:45.631Z",
-  "newJobs": [],
+  "generatedAt": "2026-07-22T13:13:04.897Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Massachusetts teacher fired after lying about serving in the Army - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlNkUFVRdGN1ZU4xWW9WejNpbmxWU1ZLYTBrUXFPbkVudkxRSmZTSkhzeWh4cEgtc0YwT2xibUsxRUVrcUVMRklGTzZwUkFwN2xzeUd1UF9MLWhxQXRrTHZuM25RQ1ZtblAxVlNoS3p6RDJtb0FFSUhaME8xeTB0TWxEMXAyYVl4ekhhM9IBkgFBVV95cUxPaEc5M25rZjhPTHUzODBVOFdnSVh6aFBPOXJCbzZ4VmljWHpkR3N3WDRwZFN6NGk4X3pJVkhTdVZsUEZfUEpYdlhHR3NtWDVITEplVmtSa0JPb29uVE0zT0Exalc4Y3M1M2ZzdWN5TWxsRVVsVFY5V2VURkNVTFg5bnhRZXlxNWlncEUxMlBad1V1dw?oc=5",
+      "description": "Massachusetts teacher fired after lying about serving in the Army Daily Mail",
+      "pubDate": "Fri, 02 Mar 2018 08:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,13 +21,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 48,
+      "items": 47,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
-      "kept": 0
+      "items": 17,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
