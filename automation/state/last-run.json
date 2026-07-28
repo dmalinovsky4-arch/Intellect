@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-27T14:02:32.566Z",
-  "newJobs": [],
+  "generatedAt": "2026-07-28T01:52:59.470Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Seaford schools hire new humanities chief - Herald Community Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkNQNXFjRm14SFFlc3JoV3B4V1A1dXo1aHdpdDUycjBkZ1l5ZnNrc2otbllYOXNIQ2x2azJsa1dGRmh3ZXR4R2p1ZXZfLVp0bTY4ZE05c01GWjNBeGZOM0t5WVJmT0ZPRDFDaGlaV2NEVHd5TXZ4dHZpRWtCVHF6S1V5ZHpqU1BDNmthMFBDRWpGQ0U?oc=5",
+      "description": "Seaford schools hire new humanities chief Herald Community Newspapers",
+      "pubDate": "Thu, 05 Sep 2019 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -14,11 +22,11 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 51,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 19,
+      "items": 18,
       "kept": 0
     },
     {
