@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-08-01T02:06:42.678Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Seaford schools hire new humanities chief - Herald Community Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNm5DZGZsTlhZX1FjUDVvTFRLM0k4czF2TkpyOTRNemJSdFJvNUtCRTY1MVVER0w3NTlQaXFlRmk4WTQ2eE1lTFY5ZHZrMWZENnZ0eGI0RTMzWmgtVW9yLUt0amlLUjRxYjRnZzBxUDZkVGY1dS1tM3hvSUVNeTU4Nmtyd29KTWl5?oc=5",
-      "description": "Seaford schools hire new humanities chief Herald Community Newspapers",
-      "pubDate": "Thu, 05 Sep 2019 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Exclusive | It’s nearly impossible to fire tenured teachers - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWpYRXg0cG5RQ3BOcVNmczdkbWx3VU1wSHh1X01VZ1k2eW5HZ0hKWGVzVTNMWHFkU2JjeW0xVHZaeHhFRk5DY25jVWtHYnZGZDdXYk5OZjBRS1BzLVY0Z1dmNERFc0ZNajdtNXpaV2t0bW9hdzllbkc0alFEVFN2NXEzcmhWTWlOSUFyZndtbGI?oc=5",
-      "description": "Exclusive | It’s nearly impossible to fire tenured teachers New York Post",
-      "pubDate": "Sat, 14 Jun 2014 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-08-01T12:44:53.504Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -28,12 +13,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 46,
-      "kept": 2
+      "items": 47,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
+      "items": 18,
       "kept": 0
     },
     {
