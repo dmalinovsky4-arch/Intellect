@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-04T13:28:50.057Z",
-  "newJobs": [],
+  "generatedAt": "2026-08-05T01:52:07.409Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "A Push for Adults Who Return to School (Published 2007) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibGZuZUEyTURlSm4tNENfUC1CT09zNFNmOHNBMjVxMGE1MGIxTjNTX0Q0UndoaVNoZG03dHpxcE1scU9Dc0RkSHZ5Rlk0UlpEMGU1UU90MTc3TmZ5Z2wta2xDM0NMU3lWeV9MdldsSGJPWDcyUTNwb2NWZzJTUnc?oc=5",
+      "description": "A Push for Adults Who Return to School (Published 2007) The New York Times",
+      "pubDate": "Sun, 30 Dec 2007 08:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +21,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 48,
-      "kept": 0
+      "items": 49,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
