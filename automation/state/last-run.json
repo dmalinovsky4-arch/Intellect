@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-08T12:18:02.315Z",
-  "newJobs": [],
+  "generatedAt": "2026-08-09T01:08:02.791Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Detroit high school history teacher says she was unfairly fired over her 'side hustle' RAP CAREER after parents complained alter-ego 'DrippinHoney' was setting bad example for kids - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXdMQzNDLThqdnhPenlISGhYdG4ycHQ1Ym5janRCUlVYdVpSUlc0WDREb3JGczFqV1pITWFfNGpuZUlaWFpiTmtQUjhqeDNCc2FsbElPRExkZHE1am9Hc0NocnV4S01VbURZT3FfSWw3V0xxUFFZdF81eU1Oem54WXF1aEZTcDM0Sl9HLXNKN2szMzF3Vm84aTZqbGlRUdIBowFBVV95cUxOa2pZVmUwMWNWY2JoUXZmcjVqOW4weTJ0OXdlazd3T3l5Y1JMdkwydG5xZDF4LWp5clV0X2l4U1dIekREU2xvMWRWTDZkRVBmM29vY3R0ejRXTEFoZVdUM19OTVFGcXpmcS1NMHFsblRVMzlVWWZINjR0ZFRLTkVQYkVQcUhLYXB1ZjNVN0xiMkx0SjNCeHNITkVpdzNFbF8zakpv?oc=5",
+      "description": "Detroit high school history teacher says she was unfairly fired over her 'side hustle' RAP CAREER after parents complained alter-ego 'DrippinHoney' was setting bad example for kids Daily Mail",
+      "pubDate": "Fri, 22 Mar 2024 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -18,8 +26,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
-      "kept": 0
+      "items": 18,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
