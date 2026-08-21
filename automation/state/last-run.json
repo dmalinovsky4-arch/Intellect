@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-08-21T00:53:01.024Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "A Snapshot of Anti-Bias Education in U.S. K–12 Schools - RAND",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Y01SNWdZNF9DWnRKS2RjcXIwcFEyaTJhbnpBelJpMFpNTGV1dUxPR3hNeWc0S1ZWQ285VGJIWHQ2eW1HSVdYMThfSHZ1dXJPM0VHd2F3?oc=5",
-      "description": "A Snapshot of Anti-Bias Education in U.S. K–12 Schools RAND",
-      "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "E. Windsor Regional School District Hiring for a Range of Positions - TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWGJxWGxvSzZVQVZkRy1ZV2lHNGlxUERUN1doZlMtYkNVdkNSbW95RFZZTl9WVmFwLXZSeDBrWHVJY2VsUk5vc2FoOEUyazhERGFjOGlEMkctbXNXMWxqY3Z5OGdJaW5TQjJodTV1Q1M0ZVZrZUhsTW1ra2ZLUFRPV29NcnlhbzhTbGs0Q3YxblJWUzliMzlMWWY3LUEtSjcteUNITXQ1T1JMSGo1Smk4eE1JWW5pSlZVbjhBdWlCYXJqd1VVamJSSWo2WllfU25DYTBHMjNLTFkyQWlDSUpINGF3?oc=5",
-      "description": "E. Windsor Regional School District Hiring for a Range of Positions TAPinto",
-      "pubDate": "Tue, 25 Mar 2025 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-08-21T12:18:09.474Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -29,11 +14,11 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 50,
-      "kept": 2
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 20,
+      "items": 22,
       "kept": 0
     },
     {
