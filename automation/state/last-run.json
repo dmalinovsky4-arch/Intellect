@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:48:45.684Z",
+  "generatedAt": "2026-08-22T12:11:46.344Z",
   "newJobs": [],
   "sources": [
     {
@@ -13,13 +13,11 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 49,
-      "kept": 0
+      "error": "HTTP 503"
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 19,
-      "kept": 0
+      "error": "HTTP 503"
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
