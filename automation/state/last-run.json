@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-01T15:36:10.295Z",
-  "newJobs": [],
+  "generatedAt": "2026-09-02T02:17:17.587Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Sachem School District Hiring Teachers - Patch",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44TWxNRXdVY1FKNVFlaTEtTW95ZWNGLXpFSndkNEd0Q2dJeEhXSHJuRE9yNzlXRlA3NC1Yd1pFQ3cxSHBKekxfVUtFT1UwMk1iZ3RVNVY4UlUtbHowZS1tdkpDQWhGc29YdmtzZTVNTU9waUhUSmQxNlhpRzE?oc=5",
+      "description": "Sachem School District Hiring Teachers Patch",
+      "pubDate": "Mon, 24 Jun 2019 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -14,11 +22,11 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 48,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 18,
+      "items": 15,
       "kept": 0
     },
     {
