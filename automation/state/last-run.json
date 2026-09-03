@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-02T15:22:22.030Z",
-  "newJobs": [],
+  "generatedAt": "2026-09-03T02:24:23.791Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Principal Retires After Spending Over 50 Years Working at Same High School: 'Lucky and Blessed' - People.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNU9uTjdMUzZEYTFSck5GN3BTbjN1dzh5c2Z2WmlhN0JuQmo0Q2lEUHJnSHdvY000Y2twMUdZNGZYbUQ1Z0xyVkJ0LWIxUU51T2RtOHFQWk5qeFpoSHFBWkpsWkVaakVUamVabm94dWp2Y1A2c0s4d1F3anNBU241XzRQWXM3UjVzY2M4Ug?oc=5",
+      "description": "Principal Retires After Spending Over 50 Years Working at Same High School: 'Lucky and Blessed' People.com",
+      "pubDate": "Thu, 29 May 2025 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,12 +21,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 47,
-      "kept": 0
+      "items": 48,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 14,
+      "items": 11,
       "kept": 0
     },
     {
