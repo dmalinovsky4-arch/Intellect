@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-09-04T02:19:32.160Z",
+  "generatedAt": "2026-09-04T15:10:39.278Z",
   "newJobs": [
     {
       "source": "Google News - Social Studies Teacher NY",
-      "title": "School administration announces sudden passing of social studies teacher Joseph Seidel - thhsclassic.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdW42OWcwUXFNaHoydGdBc0d5Q3c5cU1BSWtmSDRpWTlQNTE3VzJxODkyZG95UENVOHFfVDN2YUxWd0ZXREN3VHp4WE9RRmhmREpxQ0FjR3pidnZWb2pTb21TeXZPcWxBX0JKY2d6WEZYVk5qVG54aEVNb3pKOUZCbkIzMGdRUEFERXRJRkNiTlFWdHhfM3M2STNhdUtqM1hkMVZDRnF0Sy11RVZMMjNLVlRQX1RSUS13TVpRTVdrYw?oc=5",
-      "description": "School administration announces sudden passing of social studies teacher Joseph Seidel thhsclassic.com",
-      "pubDate": "Sun, 31 May 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Wrestlers You Never Knew Were School Teachers - Wrestling Inc.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGR1c05FSGNYY2w5akFGSGEyMTV2Z1ZXNTV6dEFob0lwYTJZVmZJOXRmcmtBU2dSenIyVFV1ajJ4QzRTY3VhTG1YRjZfNURBSE9yMlVOb19CeEJUOWZ3azhfa2VnOE52Zzl4LUEtU2JmNG1waW91Qk5qVjJDMFhiSVo2eHRJOW93ZkJF?oc=5",
-      "description": "Wrestlers You Never Knew Were School Teachers Wrestling Inc.",
-      "pubDate": "Sat, 30 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "The New Teachers’ Aides: AI Tutors - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wT3hZTnUyLWd2MXVMa0gwX3RNX0doWmxWUGhOQ1dIQVc3OExZWmxDbzBPZjNkMDIxQUZSZmlWdEgzQy00WDZlMi13LUJXV1N0QlBPNklHaEFyMGNLLWcxSWNBYjFDYzJnd1BiMHVlTXRqeGZmWGpUNDRuMVJFZm8?oc=5",
-      "description": "The New Teachers’ Aides: AI Tutors Education Week",
-      "pubDate": "Fri, 14 Feb 2025 08:00:00 GMT"
+      "title": "Michael St. John Returns To Felix Festa As A-School Principal - patch.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1BvMVpWQW05RnduLU16TEt1b2h3azNtbTY5S0lrcTNFWTNrMjMwdEtHd3VxMzludl9CMC0zUXhocmwyQmhwRGo4bkZibkFFRDBSMXZCakJETnV4RmdwN0RlOXNEUXpNcmFKUDdHZUVqSmVNUWVBM01hQVFtX1dXVXpaUGJxdE9SaF9MQmRibnc?oc=5",
+      "description": "Michael St. John Returns To Felix Festa As A-School Principal patch.com",
+      "pubDate": "Fri, 11 Aug 2017 07:00:00 GMT"
     }
   ],
   "sources": [
@@ -36,12 +22,12 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 49,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 10,
-      "kept": 1
+      "items": 13,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
