@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-05T02:20:19.312Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Harvard and Goldman Sachs say the hiring boom is now. Here's what you need to know - Ladders",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTURWZW14dy1YWWV0MGRxcmpLUzlIU29WVlk2VUVRajJYa2ZYS2RBUUlsdzRmRXVoRkdscUpwM1ozNzhtejBxU3pUSDRwZ1BfWEhrX2J3WTc0MEwtSDduWWVrSy1LQmRQSjFfRDRnVnVhQkowTGtNRVFWOVNUaC1RVDdOVzYzLUlKdWh2SmFiNVROTVp6NjFQSzRyODBhZzgzR0hQQm10dHl4blFxd1pzRF9zVTJYNzc0THJ1R2ZCd9IBxAFBVV95cUxQRy1feEJiQTRDNlhndGljWXJVTnpZcHVCUU51YTZyRVJnN2pHYmlNVnhBVVFEeHNlVXQ3Q3lVekN2QjNidEQ0U0xWdk5qN193OTRnS0ZFQjR2YTZNUUZDRG1LUWM0NXNfekxxNFE4WV9NR0g0OG5TQ2Y5MkE2LUhIcWlVZFI1QzJiekRRcmJUeUFBV3pUOUNLaEdESUIzQzNpRXB6d1VteDZyZ2VXdGhlTm8ybmhTb1lRdXlXZVQ3ckgwSi1R?oc=5",
-      "description": "Harvard and Goldman Sachs say the hiring boom is now. Here's what you need to know Ladders",
-      "pubDate": "Wed, 10 Mar 2021 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-09-05T14:01:40.208Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -22,7 +14,7 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 49,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
