@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-07T02:13:11.274Z",
-  "newJobs": [],
+  "generatedAt": "2026-09-07T16:41:02.651Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Why It’s Hard to Control What Gets Taught in Public Schools (Published 2024) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlhTczhwY01aYURDRFR3TkxJa2FNZjFVNGFxc0ZUVWFmLWctb3R6M3c5N0YyVDlEaWMycHNybDJKdWplVGtQSzZSSFJJQnI3Ty1yRGl2OVUxWXNiMUFVZGNkaG8xWXpFQW16eWEtMFF1R2F3SEdiRWVmbWNEY2MwZ0MzSnhFN1dKZE5RY002bVlNbjh0ajlOSm93?oc=5",
+      "description": "Why It’s Hard to Control What Gets Taught in Public Schools (Published 2024) The New York Times",
+      "pubDate": "Fri, 20 Dec 2024 08:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +21,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 48,
-      "kept": 0
+      "items": 50,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
