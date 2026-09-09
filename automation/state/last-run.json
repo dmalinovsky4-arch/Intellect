@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-09-08T15:24:12.963Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Op-Ed: Jersey City BOE is making a mistake by recruiting virtual teachers - Hudson County View",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWR6MVJ3QjVmVEJuQW1tbmt6Q2N5WUFQRXRtRjNycjZYMl9wS2NBZ2hCOV9WWXFWcU1DNjNaaE5YVkx5bkM3bExwV0VueXFNTlVhV002R0NhdV9UMWswdFo0QWdyN2I0c21kenExTGtKb2VFRHBMekZaVm9KOVdSM3c3SzV5bnpidEpvWE9FYjQtdzkzX0dKRWpHSl82U1pUNTh4Rg?oc=5",
-      "description": "Op-Ed: Jersey City BOE is making a mistake by recruiting virtual teachers Hudson County View",
-      "pubDate": "Tue, 13 May 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Here’s How Teachers Are Using AI to Save Time - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnRZNzR1Zm5FdGplWnB4b3RTVjJmSmhFTVpoRUl3TU1TY05tY3Z4Nkhna2dEczlmc0NHeEFHb1Nwelp1VkRhNms3TFdVUEN3Qy1tYzM2cDhRQTdmNGU4X0JYVnN4b3B4WEhIZFRobmZQa1V3ZldfNERGUlZTdWQ1b0diNThBdkpwTENsUWN2RQ?oc=5",
-      "description": "Here’s How Teachers Are Using AI to Save Time Education Week",
-      "pubDate": "Fri, 14 Feb 2025 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-09-09T02:27:41.912Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -28,8 +13,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 71,
-      "kept": 2
+      "items": 75,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
