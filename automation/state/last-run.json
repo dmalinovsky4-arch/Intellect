@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-09-11T15:16:34.792Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Greenville County teacher no longer with district after celebrating Charlie Kirk’s death online - Post and Courier",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeTJBM0ZzLWNTc2dLLXdwZ3pJRXBXc2tzZEdNOHpfa0cxMGdRRW1KajFtWHdIU09xbUtMeTBTbEVndTZ6WmpBcGpqbXpBMUtDMWxCMzhGMWw5ekR6VXRLQktxd0U0VTllbWdfMW5Sd3lSWHFUNGN2TXZKNWF3RTRHNkxNQ0xPeHpUbjhMMWs1NzIzNm9uWThMYnZDY2tUUzZtN1pVZzBJSm8wLWh6RmprYUcyRlZiWkEyVzMtX0VwekkwalpVVTJMdlVHV0ZZcXhJNTdMSUFnTHpwQXpQTWVyNWJrUHd4M2FqZC1WUnJyNDVZZWxVVmJwcF9jOA?oc=5",
-      "description": "Greenville County teacher no longer with district after celebrating Charlie Kirk’s death online Post and Courier",
-      "pubDate": "Thu, 11 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Staten Island teacher by day, stand-up comic by night, will perform at the St. George Theatre - SILive.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYm5ZSmNNeU5mZGNBcExnVFN5TWtkYVNqLVBrd2I2SGVrbDNldE9nNnZKZ3VNSENma1VXeE5Dc3E5V0kxMlphekpldlJfMWJ4TzhwbERvaFVJNkZyYjF3ZnpIUzQ1Rjlmd2tVWWtrME9HNVRBQWs2amEweXBtelpKZGVRS1BnYTFCRkJlejV0QUwzbkxfd2NTMGVpQ2V4Ylc1WlBORHRGOGhsTmJKQjUwQVR3U2gtb1ZadklUX0lrQTh6YlBmamVEci0yMWoxeDlyQkV2aWUwUQ?oc=5",
-      "description": "Staten Island teacher by day, stand-up comic by night, will perform at the St. George Theatre SILive.com",
-      "pubDate": "Thu, 10 Apr 2025 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-09-12T02:30:17.459Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -29,7 +14,7 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 77,
-      "kept": 2
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
