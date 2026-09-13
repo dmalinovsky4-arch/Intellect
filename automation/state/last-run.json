@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-12T14:25:28.430Z",
-  "newJobs": [],
+  "generatedAt": "2026-09-13T02:28:51.866Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "A background check didn't catch a high school coach's sexual assault record. Then he did it again. - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXVpZU1yN2RVcWFfVUYxNFd6UUlVWHl0VjRsSzQzY2pFZ2FTSEdxcl9tVDJfeHBwakpsVmhMX1pfUnRHT29GeTVRanZQZ0I4VnZfSmRTc0hDSW1OQW81WVVQOGFoMElQclRvSVQ4aWxrcjcwQTFxNFpUekNLOURzcG9DZkUzMTNpUTZCWFVhQlZSWlVkSTFZbFVReTI5REwtUzF2cVl1WkRxM0ZsUjVYTXdKWXdqYUNwQ2hycjdjbUFYWDA0VV9lNHVKMmU?oc=5",
+      "description": "A background check didn't catch a high school coach's sexual assault record. Then he did it again. Star Tribune",
+      "pubDate": "Sun, 29 Oct 2023 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,11 +21,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "error": "HTTP 503"
+      "items": 76,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "error": "HTTP 503"
+      "items": 20,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
