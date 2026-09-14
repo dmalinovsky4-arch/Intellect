@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-14T02:45:23.501Z",
-  "newJobs": [],
+  "generatedAt": "2026-09-14T17:04:15.522Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Who can become a substitute teacher in Minnesota? - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjBCY1FBdUV5UmxKdWc3aGZ0Vkk0d3RETlczY0pHWU41LXltalUtRk8wVmdSLTcwQ3NnWjFZOXU0Ri1PMWZyc0hNZ1hzZGZZS0hWMUF5Tk50eE5DZzRiMG00cUlDYlNaY2MzR3NUdThEN1Y5aEdGbHZMQ3dibTliUHFrZEVHdHBuTkFKRE5IMA?oc=5",
+      "description": "Who can become a substitute teacher in Minnesota? Star Tribune",
+      "pubDate": "Thu, 17 Oct 2024 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -18,8 +26,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 21,
-      "kept": 0
+      "items": 22,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
