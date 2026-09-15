@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-14T17:04:15.522Z",
+  "generatedAt": "2026-09-15T02:48:18.331Z",
   "newJobs": [
     {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Who can become a substitute teacher in Minnesota? - Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjBCY1FBdUV5UmxKdWc3aGZ0Vkk0d3RETlczY0pHWU41LXltalUtRk8wVmdSLTcwQ3NnWjFZOXU0Ri1PMWZyc0hNZ1hzZGZZS0hWMUF5Tk50eE5DZzRiMG00cUlDYlNaY2MzR3NUdThEN1Y5aEdGbHZMQ3dibTliUHFrZEVHdHBuTkFKRE5IMA?oc=5",
-      "description": "Who can become a substitute teacher in Minnesota? Star Tribune",
-      "pubDate": "Thu, 17 Oct 2024 07:00:00 GMT"
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Bronx Teachers Accused of Racism Somehow Still Have Their Jobs Months Later - atlantablackstar.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2RNdG0ySGFuYlFIbFZ5RGtjV1ZkUUtfakpwQ1FCVVJGblplbldOYnJwdnhhQ3lRSnlKaXVtRUZyaGIzLWZ6cDRIdzV5dWVjRG9vZ0NXQ2NfT0drejI1U2Zkem91VkNlUGZBeXRnMWkxUndEdFFwQjYtaEQ2bzR3QkFCYk1VR094VjZUTGo5NDB2WnRoaUV3ZXBVOHA0RklGOVdMQktRX0N6WTBxVGJWQ3ByUDY3eE0?oc=5",
+      "description": "Bronx Teachers Accused of Racism Somehow Still Have Their Jobs Months Later atlantablackstar.com",
+      "pubDate": "Wed, 11 Jul 2018 07:00:00 GMT"
     }
   ],
   "sources": [
@@ -21,13 +21,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 77,
-      "kept": 0
+      "items": 78,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 22,
-      "kept": 1
+      "items": 23,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
