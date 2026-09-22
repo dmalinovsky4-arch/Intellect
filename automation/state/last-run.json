@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-21T17:13:14.705Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Social studies teacher's love for job is contagious - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmZZV2phRHdTam1wQVdwSkxnYk0xRVoxdlVsZHZxM0lRY2Jkcnd5dmdfd05QV205YkZyWnhxUnRHa21HMHFZRGxTYjc3X1RfX1NfZUFQZTVsenUyRHRzS1pRWGNPcF9hb2F0QlhaMkVuNEVudk1PSU0xVktzbVJOWTBDXzdMWDdvWFRnbHVtc2dMelhITGF4SQ?oc=5",
-      "description": "Social studies teacher's love for job is contagious Daily Herald",
-      "pubDate": "Mon, 11 Jul 2016 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-09-22T02:43:11.874Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -22,7 +14,7 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 76,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
