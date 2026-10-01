@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-01T03:27:56.925Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-01T17:31:46.916Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Teacher Sets Record by Teaching for 53 Years - NewsForKids.net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnQ2dkRjTkZmbWc1Q2Y0YXJTRFIxb211a2I3TnZGZ2ZYdjNhNVpNSUN1eVl2SVdVZzNxNkhnQUZEU2FpN2JUc3J0bXVWSVhXU2dJenAtSFZaMXJvR0pMeV9XTU4yZmpxcERvNGVobjVlcFR3MUs3Zkk4ekFoMG84QXAxOXNRWEtYMW5qU1VWamRfYW8?oc=5",
+      "description": "Teacher Sets Record by Teaching for 53 Years NewsForKids.net",
+      "pubDate": "Thu, 26 Oct 2023 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Chapin’s Newest Faculty & Staff! - The Chapin School",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUxRUjhiR0lJRUtzTFZkZU94cDlwajl1M1h5STRwRkZxODQwUVlkVklnWjFZUnZhWm9yRmpJYVczVk9QWjdVSDNaMUhtbmFWaF9Db1AyNkRxejcwcEk1S3ZGODhvMVRKa1MtVkZqWVlJekd2X1ppakVwUTZ0SGszSHZ5TF9zMTJ2TGlOZDIyX2xWN29rUzhSdjdaWTRpREwzQzhHckhoZUs2WjZmY1ZXNlgtampGSG1WV1VFZmM1QWwwUUJPRURSbXg1dw?oc=5",
+      "description": "Chapin’s Newest Faculty & Staff! The Chapin School",
+      "pubDate": "Fri, 03 Oct 2025 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,13 +28,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 56,
-      "kept": 0
+      "items": 58,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
-      "kept": 0
+      "items": 17,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
