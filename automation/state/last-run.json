@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-04T03:41:22.309Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "LOCKPORT SCHOOLS: 32 people to retire - lockportjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkhwR0hGQVE5ekdKV2l4Zktkd0Z6Wlo3ODVtRDFhY2xLTWFWZ3QwM2VHb3YtTU1HUnlRTlFOWER6MkZidUJyOGpsMXRMYWlyY21qMXRmTmNNVm54Nms0RTNHanJ4TVRKaEFrOTA2SUxZUHNyZ3habXNHQTluOEtRamx0VHhiOE5xZk5HbVkwOWc4UEhfRDk1ai0zQlJYVWF4UHF5SzVxSXlLMDRYY0hXZ0FJQmtpWUpNdS15MjJiSkNtUnRpNDZIU0czdDFJcUk?oc=5",
-      "description": "LOCKPORT SCHOOLS: 32 people to retire lockportjournal.com",
-      "pubDate": "Mon, 18 Jun 2007 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-10-04T16:00:34.017Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -21,13 +13,11 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 55,
-      "kept": 1
+      "error": "HTTP 503"
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
-      "kept": 0
+      "error": "HTTP 503"
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
