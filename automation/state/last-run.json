@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-05T03:24:12.725Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "New teacher Grace Kent offers sociology and anthropology courses at THHS - thhsclassic.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDhXMjBfZDBLMm1uWkVvaHpTMUZSSXc4WlB3dlJFV1FwbE9TUzQyaEh5R1JHRjBQT3dZMThTWUgweEx3NkNjQ0RqVXBxX3RXck1tanpsOVpZNU1wVXJST2k4eG4yMHQ2MGFyZldhTk1KcUFSdmV2LTBpQUxqampoMHdmdlZUcUsxU1gyTWxJUlJ4UG5FLXYtYWxRNXBDM1B4WEZxdVBnQzRrbEJMeE9jZGhB?oc=5",
-      "description": "New teacher Grace Kent offers sociology and anthropology courses at THHS thhsclassic.com",
-      "pubDate": "Fri, 07 Nov 2025 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-10-05T19:46:54.903Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -22,11 +14,11 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 52,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 16,
+      "items": 15,
       "kept": 0
     },
     {
