@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T03:52:40.728Z",
+  "generatedAt": "2026-10-08T18:01:01.449Z",
   "newJobs": [],
   "sources": [
     {
@@ -9,16 +9,17 @@
     },
     {
       "name": "Reddit r/Teachers",
-      "error": "HTTP 429"
+      "items": 0,
+      "kept": 0
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 51,
+      "items": 52,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 18,
+      "items": 19,
       "kept": 0
     },
     {
