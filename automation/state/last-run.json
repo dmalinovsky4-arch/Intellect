@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-11T03:15:58.804Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-11T16:48:32.442Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Chappaqua School Board Picks Finalist for Superintendent Job - Patch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnVwLUx4REdGRXFzOHlpZERKSTRTUGJTdUxKVFQ0VkZiUWJrUUw5c1ZleHRSdGQwcHlIYXd6UDRtdERvRkhpV1JtRXNxRzgtaXQ3dWcxQkhWaGlhMk94QVRkVG8xYzdmQnYtdXVSOHNFdVZPT3R6M2VwT3Y1N1I1bFEzc0ZqNThhSWEwcmo4aEVoVEVzMmlrRA?oc=5",
+      "description": "Chappaqua School Board Picks Finalist for Superintendent Job Patch",
+      "pubDate": "Thu, 27 Apr 2017 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +21,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 51,
-      "kept": 0
+      "items": 50,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
