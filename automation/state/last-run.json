@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-12T03:38:44.442Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-12T20:26:43.476Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "10 Potentially Uncomfortable Interview Questions For School Leaders - The 74",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXdfQnRYeXpBNUFNeVMwWjJudjAwd3dtdmZzZ19xQ0ZrYnRKRjFnUWtfcTBLOWROWXFqdHBkMDRyVHVEbGNRZkxzNU5UWFV6OEZfdDEzUXlMN01qRHZ0eE92Xzdza2s2QnlQMEJITU1rV1NYd0ZLaEZuNG14YlkybFpaTmF1VUc1a1RRT0NqREx3STZ1RV94LVIxYmQzWTJGZElVV2V1Q1Q?oc=5",
+      "description": "10 Potentially Uncomfortable Interview Questions For School Leaders The 74",
+      "pubDate": "Mon, 12 Oct 2026 10:30:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -14,7 +22,7 @@
     {
       "name": "Google News - Social Studies Teacher NY",
       "items": 50,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
