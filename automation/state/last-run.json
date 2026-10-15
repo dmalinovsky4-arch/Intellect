@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-15T02:39:02.792Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-15T15:47:59.496Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "PE teachers retraining in maths to fill school gaps - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UVdYYlRFcEF2NDNJcmkxVkJ1ZEZtSjJubENQcFotYzZNSS1GQjdDNm9oaXJ6YVFDeUY2djl6RDBSLVZXUFpVR1dRUmNsMm01cUZxVUgyUVk?oc=5",
+      "description": "PE teachers retraining in maths to fill school gaps BBC",
+      "pubDate": "Wed, 20 Mar 2024 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "West Sussex: Teacher who sexually abused student spared prison - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQ2NLOEZta281a0lYeEU5QW1HQ05qTVNOaTNxcEViZEtyeENvYUFmTTRRaTZWZF9CdGx2WDhuZXRhNDVLNXVTMGY4VjNrZnRqMXVZb19UZ1Fja0l4?oc=5",
+      "description": "West Sussex: Teacher who sexually abused student spared prison BBC",
+      "pubDate": "Thu, 24 Oct 2024 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,13 +28,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 51,
+      "items": 50,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 18,
-      "kept": 0
+      "items": 20,
+      "kept": 2
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
