@@ -1,19 +1,12 @@
 {
-  "generatedAt": "2026-10-15T15:47:59.496Z",
+  "generatedAt": "2026-10-16T02:34:39.378Z",
   "newJobs": [
     {
       "source": "Google News - History Teacher Brooklyn",
-      "title": "PE teachers retraining in maths to fill school gaps - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UVdYYlRFcEF2NDNJcmkxVkJ1ZEZtSjJubENQcFotYzZNSS1GQjdDNm9oaXJ6YVFDeUY2djl6RDBSLVZXUFpVR1dRUmNsMm01cUZxVUgyUVk?oc=5",
-      "description": "PE teachers retraining in maths to fill school gaps BBC",
-      "pubDate": "Wed, 20 Mar 2024 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "West Sussex: Teacher who sexually abused student spared prison - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQ2NLOEZta281a0lYeEU5QW1HQ05qTVNOaTNxcEViZEtyeENvYUFmTTRRaTZWZF9CdGx2WDhuZXRhNDVLNXVTMGY4VjNrZnRqMXVZb19UZ1Fja0l4?oc=5",
-      "description": "West Sussex: Teacher who sexually abused student spared prison BBC",
-      "pubDate": "Thu, 24 Oct 2024 07:00:00 GMT"
+      "title": "Act 'now or never' to hit 6,500 teachers target, report warns - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TNjFJMnV5N1RITnZnS3VQd2FOSVpHY0VOQW1Hb1d5SmFHQWRnNHFFYlBJOFhoOEVXOExTaExsaFVjS2xLNUplYXpKS3FjN2gxY2hjQ1VpNS1hbjJw?oc=5",
+      "description": "Act 'now or never' to hit 6,500 teachers target, report warns BBC",
+      "pubDate": "Thu, 13 Mar 2025 07:00:00 GMT"
     }
   ],
   "sources": [
@@ -33,8 +26,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 20,
-      "kept": 2
+      "items": 18,
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
