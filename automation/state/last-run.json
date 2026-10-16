@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T02:34:39.378Z",
+  "generatedAt": "2026-10-16T15:36:37.430Z",
   "newJobs": [
     {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Act 'now or never' to hit 6,500 teachers target, report warns - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TNjFJMnV5N1RITnZnS3VQd2FOSVpHY0VOQW1Hb1d5SmFHQWRnNHFFYlBJOFhoOEVXOExTaExsaFVjS2xLNUplYXpKS3FjN2gxY2hjQ1VpNS1hbjJw?oc=5",
-      "description": "Act 'now or never' to hit 6,500 teachers target, report warns BBC",
-      "pubDate": "Thu, 13 Mar 2025 07:00:00 GMT"
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Minnesota teacher insults student’s intelligence during ugly classroom clash over Renee Good’s death: video - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlVNR1pDZmFjTE1oeFg5WnFxN3RUWmpNSzN3Tzk3aU5XdFhFaUVxaXNuX0QwVEhndGtSQXVHVGlTbzJ6Z2kzZFV1blY5SDVvRVBlWHdNSVo2elAtOTNDZW9ZMGdIYk05XzJCZ1MwTklMaWZTajh4d3YzR29RYjFZWnh0eEk4ckpEYmQwN0VDd0lJVTEtbjFzX1Ita1JUeGUwOXpYZTJLMW03WC0xY2JrRnMxQzktYXAwVUdGdQ?oc=5",
+      "description": "Minnesota teacher insults student’s intelligence during ugly classroom clash over Renee Good’s death: video New York Post",
+      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT"
     }
   ],
   "sources": [
@@ -21,13 +21,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 50,
-      "kept": 0
+      "items": 70,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 18,
-      "kept": 1
+      "items": 17,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
