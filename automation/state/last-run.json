@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-18T02:27:27.432Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-18T14:54:55.116Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Herndon High School Teacher Releases Memoir About 32 Years in the Classroom - | Reston Now",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NGUXFDb3pWd1c5M0FHWk9SM243NlZHSDV6WTQxbDZNZV94NTBfbXdmc1hXT0x1ekdIVnJUMndhVkc5eUw5Y0gzXzgxVzdFc2dsNHg0TkQ2di1zc3BDbU9WTENIUFBrSjF2Z1BnS3hDX1FEdXpvRTFrUHlqZ25sYW95M1h1bUFQRjA1bEhxOTVpWWUtUmxLakxmcUxaTnpvZ3drTlhsT1gxMkJ6anlLWG1JTQ?oc=5",
+      "description": "Herndon High School Teacher Releases Memoir About 32 Years in the Classroom | Reston Now",
+      "pubDate": "Fri, 25 Aug 2017 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Remembering The Late Joe Sweeny: NYSUT Board Member, Former Dunkirk Teachers Association President, Southern Tier Union Activist & 38-Year Social Studies Teachers ‘Always Kept His Members Foremost On His Mind’ - WNY Labor Today",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOMm5oYWlybGdHRjhjU2NNRnpWRVJ6RU0zSS1RY2FtNHRVUk9yZmNYTHpjXzd4aHlPSXE1TFRBQ1pGTUxFemozZDBqSEJvcVdKSW51aGhWUDVsWHpqUlc5cnE2dmd4VHRzTXV0REhkN1RlanJpMTNDZjRXeEs0bzVsSTJtOUFiNzFsRGtNWkNHZl9pRVg3Vk9OWlRrY1NFclJIZEJFYzFwc1R0OE5KNUU1NVRrRGMwemVCN0xQZWN3bDVZNVU3Q0toV0JNMFN4cDFOSXdGdF9ILVVNdER3NER3WWNCOWtmeUhJb1EwYUlNRGtNWUNIUTU3Y0pEOFhPY2ZFTVJkUjhrSXh2WmRuclpJdU1LSEZ2ZV9qVk1yR0syZUFHTTBKbzZ6dUZMbTBKUlJ5VHJJWmd3QThlVi1IbUdsNllNOERMclEtMmxmMUwycmZobkoxMkFXaG5ESlNaekVBQVZWQXdPZjBaa2dkOUZXa1FpNVRIaUxDMkNCRmhrazlZR2x0OW5ZalZvcFhOTUkwOG8zc3NwcE5hVEQ1akE?oc=5",
+      "description": "Remembering The Late Joe Sweeny: NYSUT Board Member, Former Dunkirk Teachers Association President, Southern Tier Union Activist & 38-Year Social Studies Teachers ‘Always Kept His Members Foremost On His Mind’ WNY Labor Today",
+      "pubDate": "Thu, 12 May 2016 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,12 +28,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 73,
-      "kept": 0
+      "items": 72,
+      "kept": 2
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 14,
+      "items": 15,
       "kept": 0
     },
     {
