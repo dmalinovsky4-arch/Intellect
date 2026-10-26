@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-26T02:36:00.083Z",
-  "newJobs": [],
+  "generatedAt": "2026-10-26T17:40:44.305Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "How Teachers Survive: A Q&A with Peter Rad - Roads & Kingdoms",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oUmFBbzYtOHBnUUVOUUx4aEZEMEUxaVFRaUhTRDgtc3BpY2VpbDZCTUdDSFRDRnZsMDBTVEpVZmVNNFZRTmZIM3BBV0x5eThTYlo4MmhMUzREazFReGhGSlhJWGFXVlFGcVo2aE5QN1dZUQ?oc=5",
+      "description": "How Teachers Survive: A Q&A with Peter Rad Roads & Kingdoms",
+      "pubDate": "Tue, 20 Nov 2018 08:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "‘Nice to be loved’: Cardozo High School social studies teacher brings musical talent to the classroom - qns.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GZDhKNkV5VVNrSTc2WmpGeVlQaGl3LUFHVURqTFVxOE9pRWdNQWRMX0lJNkYwNlBudU9fY1VZZGNVdDJtR1RpZEhGYV9yS2lLM1FlbHJFanZhMXh0NGY2R3h6eGpZMm1Ma0szYk9UZm9FWDZvaDN5N2NkX3dsUQ?oc=5",
+      "description": "‘Nice to be loved’: Cardozo High School social studies teacher brings musical talent to the classroom qns.com",
+      "pubDate": "Fri, 06 May 2022 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +28,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 56,
-      "kept": 0
+      "items": 76,
+      "kept": 2
     },
     {
       "name": "Google News - History Teacher Brooklyn",
