@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-10-28T17:26:47.612Z",
+  "generatedAt": "2026-10-29T03:47:27.981Z",
   "newJobs": [
     {
       "source": "Google News - Social Studies Teacher NY",
-      "title": "Zohran Mamdani ran for VP of his high school and lost—now he's winning the Democratic primary for NYC mayor - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXUxamVYTmFKUnVoNE40dUZKMHNIMWZKWkMybmhYQmd0MGx2RVIwQ0hqNXhIZEg0aFhsYmJCeXpoQzBkVzdGaG45WkZwQVBZZV9kcHBZaktIcFNBQlFfVGJDZEstZEpnbVBlMmFPc3hPRXUwdm5VT29VcjVTQXVRWXZGOWtWaHhBSTJkV0tKTTQ5OENXMUd4WU1pUzBlZ19UdHfSAacBQVVfeXFMTkV5V1hpZjlIbUZYV3NoemtGd2FZNHlVb3B3TUdFbWZzMmlOSXRmUERCUU85Y2NudmtJMWRSTjE1WE1jY3VFMFgzMmhnYWtjQUNJUUVzQUlMc2NSSnpQaFBsdDBHSUduZDhVTzg1M040clRLN2k1N3Z6cFcyMHRuNWtfWTV2d2dKWnBra0ZUbzg4dFltUlZJTW9CZWp1LUR5N2liTkp2UzA?oc=5",
-      "description": "Zohran Mamdani ran for VP of his high school and lost—now he's winning the Democratic primary for NYC mayor CNBC",
-      "pubDate": "Fri, 27 Jun 2025 07:00:00 GMT"
+      "title": "Teachers, students express concerns over Rondout Valley budget cuts - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUU4tbU9fV2pFWThuMHZZNkVpMkNZb1RvbGgyNXN6NEIwSjRtQnViSHlYd2F3by1tLU1QZjRTTWVvYXNNS190aGl6MVltX21XT291aDJuUDlmaGVpZmNqTmdzYVI2YjdVOFJQMjM1TzRnVXhBTXkyRjZzVjRmNDAyYjhyMlhnWmQwcm01TjJXT1pMREVXSXZPTnhJWTQtdHhmLTFxeFd5VUtiVHM?oc=5",
+      "description": "Teachers, students express concerns over Rondout Valley budget cuts Spectrum News",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "A Teacher Leadership Elevator Pitch and an Invitation to Write Your Own (Opinion) - Education Week",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDM3d3dXa2VHV2cwTWNZQnZsSnNoVjkwc1VjMEhLYWZVUFotWEZKYzNEYklpMjZFenoxdUFDclEwU1V0YXo1Y0tZeHVNX3RmdzI4VUlZb0g4b0NTc0hEOWRwcWwxeFRGXzdTdWdYbXYzVlNVTkFrNjV6OEJGVkc5Q3R2RHdhYjRFdzRJQ1c0eW5jVU41cFFfTUlZdWszb2d4RDFyTVY3Z0lnUXlaR09fQUNPWldWeERkUXpsRmw1aDFHNl9YaGVn?oc=5",
+      "description": "A Teacher Leadership Elevator Pitch and an Invitation to Write Your Own (Opinion) Education Week",
+      "pubDate": "Fri, 05 Aug 2016 07:00:00 GMT"
     }
   ],
   "sources": [
@@ -21,8 +28,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 71,
-      "kept": 1
+      "items": 27,
+      "kept": 2
     },
     {
       "name": "Google News - History Teacher Brooklyn",
