@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-10-29T03:47:27.981Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Teachers, students express concerns over Rondout Valley budget cuts - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUU4tbU9fV2pFWThuMHZZNkVpMkNZb1RvbGgyNXN6NEIwSjRtQnViSHlYd2F3by1tLU1QZjRTTWVvYXNNS190aGl6MVltX21XT291aDJuUDlmaGVpZmNqTmdzYVI2YjdVOFJQMjM1TzRnVXhBTXkyRjZzVjRmNDAyYjhyMlhnWmQwcm01TjJXT1pMREVXSXZPTnhJWTQtdHhmLTFxeFd5VUtiVHM?oc=5",
-      "description": "Teachers, students express concerns over Rondout Valley budget cuts Spectrum News",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "A Teacher Leadership Elevator Pitch and an Invitation to Write Your Own (Opinion) - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDM3d3dXa2VHV2cwTWNZQnZsSnNoVjkwc1VjMEhLYWZVUFotWEZKYzNEYklpMjZFenoxdUFDclEwU1V0YXo1Y0tZeHVNX3RmdzI4VUlZb0g4b0NTc0hEOWRwcWwxeFRGXzdTdWdYbXYzVlNVTkFrNjV6OEJGVkc5Q3R2RHdhYjRFdzRJQ1c0eW5jVU41cFFfTUlZdWszb2d4RDFyTVY3Z0lnUXlaR09fQUNPWldWeERkUXpsRmw1aDFHNl9YaGVn?oc=5",
-      "description": "A Teacher Leadership Elevator Pitch and an Invitation to Write Your Own (Opinion) Education Week",
-      "pubDate": "Fri, 05 Aug 2016 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-10-29T17:37:24.040Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -28,12 +13,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 27,
-      "kept": 2
+      "items": 26,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 10,
+      "items": 9,
       "kept": 0
     },
     {
