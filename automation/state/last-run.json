@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:15:54.791Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "This New York school district is led by five Binghamton alumni - Binghamton University",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFd5R3lsTF9wREozYml0MHF5bkZlMzgwU2tVR1ZCTFR3TkJyN3loNW1SNXpYSUp2SHBIdl90VmR1OGdlMU9sMFNVWmNoc24zeXZPaHBnRjhFTjBucWNndENIYWZGWWxQQlMzTm1vUzJybDNLME8yZElXQU5xei1Zak80S1dYakpDa1F1X2tzNnJJZG95Yy1WWWdwOVdnOEcyamVuaFJKVXE?oc=5",
-      "description": "This New York school district is led by five Binghamton alumni Binghamton University",
-      "pubDate": "Fri, 30 Oct 2026 13:32:04 GMT"
-    }
-  ],
+  "generatedAt": "2026-10-31T03:34:30.466Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -21,12 +13,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 67,
-      "kept": 1
+      "items": 22,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 10,
+      "items": 9,
       "kept": 0
     },
     {
