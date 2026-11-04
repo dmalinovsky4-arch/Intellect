@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-04T04:16:04.775Z",
-  "newJobs": [],
+  "generatedAt": "2026-11-04T18:54:03.131Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Who’s Hiring Teachers in the Hudson Valley? - 101.5 WPDH",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uRU5NR09iLWFreVJrQ1Q0d1kwLWM2SzJaX19UQ014VElHTVdqeVo3YXBqQWh3NHRzMHc0UDROZzBkSnh0TW9Ob3gxVDkzNURUQll1cXJ5S0czVHJYaWMyaGZHNEplRWlTOE40?oc=5",
+      "description": "Who’s Hiring Teachers in the Hudson Valley? 101.5 WPDH",
+      "pubDate": "Tue, 05 Aug 2014 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -13,8 +21,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 59,
-      "kept": 0
+      "items": 10,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
