@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-12T05:12:44.708Z",
-  "newJobs": [
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Jackée Harry On Being A Teacher Before Her Acting Career Took Off: 'That Was My First Love' - Essence",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDBLeU1zcEZQSk5WbHA4bmw4S3o2bVdYdTFUTTJKc1YtRGtuUzI0ZDhtcE5KbmRHLUJKd2xnUnZ0Xy0yZTZTMjFjVU5kRXlHcm5VMHh2TnhvLThaclFjNFdxa2x5MjJpZjBQcnhTQ2VzTFpUcTVwS0syem14clVDZERiNno?oc=5",
-      "description": "Jackée Harry On Being A Teacher Before Her Acting Career Took Off: 'That Was My First Love' Essence",
-      "pubDate": "Wed, 25 Aug 2021 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-11-12T19:13:10.147Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -26,8 +18,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 9,
-      "kept": 1
+      "items": 10,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
