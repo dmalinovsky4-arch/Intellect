@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-15T04:09:52.112Z",
-  "newJobs": [],
+  "generatedAt": "2026-11-15T18:01:06.575Z",
+  "newJobs": [
+    {
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "California history teacher poses as Trayvon Martin in yearbook photo, with hoodie and Skittles - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2h4ZmYwSWdOdnZfckxGa09ya1p2ZUFXenJTblVVU3k3YzNaVlBPUFBGNjlqSUNtSFNlZ295V2hjYVVCbTBQaEczZ1ZsR3k5YTNlRlVudW9LaUJWRXNlTWE2ZjczbHFBTjg2UXdsTmxOaW90QWpSRTQtS01lSGhkOGtPcHJVZmkxbHdIdVczQzRwSTZJeFY3QktLRS1DNm5wYTk2UUwtME5YcWtGLThSVHQzQnFKbGpKNThNWEVwd1Q3c3hWcXlDVzdwQXhkQQ?oc=5",
+      "description": "California history teacher poses as Trayvon Martin in yearbook photo, with hoodie and Skittles New York Daily News",
+      "pubDate": "Fri, 23 May 2014 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -19,7 +27,7 @@
     {
       "name": "Google News - History Teacher Brooklyn",
       "items": 10,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
