@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-16T04:09:04.376Z",
-  "newJobs": [
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Andy Green takes on role of teacher to educate his young Mets on 9/11 - New York Daily News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOG9hTGY0SnBZY2hodkxQcE1tYUh5c25lWllLZWpfQWc2ZnhPWjlQYXVKY3h2Y05aNXoxWFNYMlVoUDZiOUJmVllVVTdUS05POEdvdEJhbG1DWjNRdC1sMHk3aDZlaUgtX2xfMzhWaUs1OWIta2doWkFDQzZuSGI0ckNiWXQ2QjM4dG91bFpxMUhySGZPN21sQw?oc=5",
-      "description": "Andy Green takes on role of teacher to educate his young Mets on 9/11 New York Daily News",
-      "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-11-16T21:16:38.293Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -26,8 +18,8 @@
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 9,
-      "kept": 1
+      "items": 10,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
