@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-17T05:57:03.707Z",
+  "generatedAt": "2026-11-17T20:05:16.707Z",
   "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
-      "items": 0,
-      "kept": 0
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/Teachers",
@@ -13,12 +12,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 9,
+      "items": 10,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 9,
+      "items": 10,
       "kept": 0
     },
     {
