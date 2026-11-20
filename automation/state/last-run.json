@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-20T05:09:24.787Z",
-  "newJobs": [],
+  "generatedAt": "2026-11-20T19:17:00.727Z",
+  "newJobs": [
+    {
+      "source": "Google News - Social Studies Teacher NY",
+      "title": "Long Island Teacher Tells Students to Write Captions for Slavery Photos — and ‘Make Them Funny' - NBC New York",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnpLZ29JazhvRWtnZ09fU3lEb1NTd3lfZjgwcTVWM3YyWXpYM0JCbklwZXo5ZUU3X2VqSzhlZDVLYlVKWG9Ma1RPSXpmZ2FCb3BYdlZLQnVkTUJUNDhzOHl3UTFYNEcySmo3NzBPRG1uTklOVXV2Nncydzg0U1I1SENBQWU0cC1LcXlsc1diZlItLXdoUWVKNlk2eTNzNERwS2YyZXFrTU9QbmI0ajlNcVFreGthenYxaHVhRXNKaGNlS3hKeDZKRmxYWXJmMmRBcGtnNQ?oc=5",
+      "description": "Long Island Teacher Tells Students to Write Captions for Slavery Photos — and ‘Make Them Funny' NBC New York",
+      "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT"
+    }
+  ],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -12,12 +20,12 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 10,
-      "kept": 0
+      "items": 50,
+      "kept": 1
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 10,
+      "items": 9,
       "kept": 0
     },
     {
