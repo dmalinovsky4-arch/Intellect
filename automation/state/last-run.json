@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T19:17:00.727Z",
+  "generatedAt": "2026-11-21T05:01:48.324Z",
   "newJobs": [
     {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "Long Island Teacher Tells Students to Write Captions for Slavery Photos — and ‘Make Them Funny' - NBC New York",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnpLZ29JazhvRWtnZ09fU3lEb1NTd3lfZjgwcTVWM3YyWXpYM0JCbklwZXo5ZUU3X2VqSzhlZDVLYlVKWG9Ma1RPSXpmZ2FCb3BYdlZLQnVkTUJUNDhzOHl3UTFYNEcySmo3NzBPRG1uTklOVXV2Nncydzg0U1I1SENBQWU0cC1LcXlsc1diZlItLXdoUWVKNlk2eTNzNERwS2YyZXFrTU9QbmI0ajlNcVFreGthenYxaHVhRXNKaGNlS3hKeDZKRmxYWXJmMmRBcGtnNQ?oc=5",
-      "description": "Long Island Teacher Tells Students to Write Captions for Slavery Photos — and ‘Make Them Funny' NBC New York",
-      "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT"
+      "source": "Google News - History Teacher Brooklyn",
+      "title": "Teacher rents her work wardrobe featuring brands worn by Kate - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpQc2F0dzZOYkg2VFFSM3NKYU1SN1N3YlhzUHlxTWRuR0ZrU19JbDhDOTZtV1N5WDN0Vjk4Ny1wQWtxcER2WHhKTElkTVNxWWh6akg3OFplb2p6ckxmNmpjc0d0ZEpNb0JzUFQxTHY4VDNjSVhyOFV2WmlTZzhQMmpabFhIZ3FSXzJhLXNYZHBoQUlBc2tVbjUzLUdDazg3WnEtY18taFNQekIxUlFSalVkeWI0ZGlMd2RFT3c0QUcyQQ?oc=5",
+      "description": "Teacher rents her work wardrobe featuring brands worn by Kate Daily Mail",
+      "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT"
     }
   ],
   "sources": [
@@ -20,13 +20,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 50,
-      "kept": 1
+      "items": 9,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
       "items": 9,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
