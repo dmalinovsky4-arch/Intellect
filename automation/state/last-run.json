@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-21T05:01:48.324Z",
-  "newJobs": [
-    {
-      "source": "Google News - History Teacher Brooklyn",
-      "title": "Teacher rents her work wardrobe featuring brands worn by Kate - Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHpQc2F0dzZOYkg2VFFSM3NKYU1SN1N3YlhzUHlxTWRuR0ZrU19JbDhDOTZtV1N5WDN0Vjk4Ny1wQWtxcER2WHhKTElkTVNxWWh6akg3OFplb2p6ckxmNmpjc0d0ZEpNb0JzUFQxTHY4VDNjSVhyOFV2WmlTZzhQMmpabFhIZ3FSXzJhLXNYZHBoQUlBc2tVbjUzLUdDazg3WnEtY18taFNQekIxUlFSalVkeWI0ZGlMd2RFT3c0QUcyQQ?oc=5",
-      "description": "Teacher rents her work wardrobe featuring brands worn by Kate Daily Mail",
-      "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-11-21T18:18:12.799Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -20,13 +12,13 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 9,
+      "items": 10,
       "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
-      "items": 9,
-      "kept": 1
+      "items": 10,
+      "kept": 0
     },
     {
       "name": "Indeed - Social Studies Teacher NY (may 403)",
