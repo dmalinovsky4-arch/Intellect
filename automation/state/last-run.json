@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-23T22:56:33.194Z",
-  "newJobs": [
-    {
-      "source": "Google News - Social Studies Teacher NY",
-      "title": "How These Teachers Build Curriculum ‘Beyond Black History’ - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzk2dWs4dGszTVdFWjdEMTh6d3l3cVU3TFQxRjlRbEh3VlFteUwzc1FURmFGZl9FdkI5VzFWa2RLV3NXek5ESVhSbnV5bVR2Z0lFdDEzUzhHUnNWNVNkZU84OEw3LW1iTlF4eEQweENnMVNXSE5ocWkzdmNuel9IVzR0TDl5VVpWMUIwd1Jib01IeGl4UEZBX1ZzQkVfQTg1QUw5dzQ3ZFk?oc=5",
-      "description": "How These Teachers Build Curriculum ‘Beyond Black History’ Education Week",
-      "pubDate": "Mon, 15 Apr 2024 07:00:00 GMT"
-    }
-  ],
+  "generatedAt": "2026-11-24T07:51:10.986Z",
+  "newJobs": [],
   "sources": [
     {
       "name": "Reddit r/TeachingJobs",
@@ -20,8 +12,8 @@
     },
     {
       "name": "Google News - Social Studies Teacher NY",
-      "items": 50,
-      "kept": 1
+      "items": 9,
+      "kept": 0
     },
     {
       "name": "Google News - History Teacher Brooklyn",
